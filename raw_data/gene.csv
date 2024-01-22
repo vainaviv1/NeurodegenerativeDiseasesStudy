@@ -1,0 +1,2388 @@
+gene_id,disease_id,molecule_a,molecule_b,type_a,type_b,host_organism,positive_interaction
+1,1,cdkn1a_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+2,1,TP53,cdkn1a_human_gene,protein,gene,In vitro,1
+3,1,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+4,1,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+5,1,AR,klk3_human_gene,protein,gene,Homo sapiens prostate tissue,1
+6,1,RELA,ikba_human_gene,protein,gene,In vitro,1
+7,1,RELA,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+8,1,RELA,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+9,1,il8_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+10,1,il8_human_gene,RELA,gene,protein,Homo sapiens H4 neurogioma cell,1
+11,1,il8_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+12,1,GCM1,htra4_human_gene,protein,gene,In vitro,1
+13,1,GCM1,htra4_human_gene,protein,gene,In vitro,1
+14,1,GCM1,htra4_human_gene,protein,gene,In vitro,1
+15,1,htra4_human_gene,GCM1,gene,protein,In vitro,1
+16,1,htra4_human_gene,GCM1,gene,protein,In vitro,1
+17,1,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+18,1,foxp3_human_gene,H4C16,gene,protein,Homo sapiens regulatory T-lymphocyte,1
+19,1,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+20,1,foxp3_human_gene,H4C16,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+21,1,HIF1A,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+22,1,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+23,1,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+24,1,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+25,1,mmp1_human_gene,JUN,gene,protein,In vitro,1
+26,1,irf1_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+27,1,irf1_human_gene,STAT1,gene,protein,In vitro,1
+28,1,RELA,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+29,1,bim_human_gene,FOXO3,gene,protein,In vitro,1
+30,1,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+31,1,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+32,1,PARP1,brca2_human_gene,protein,gene,In vitro,1
+33,1,PARP1,brca2_human_gene,protein,gene,In vitro,1
+34,1,PARP1,brca2_human_gene,protein,gene,In vitro,1
+35,1,POU5F1,sox2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+36,1,RFX5,dra_human_gene,protein,gene,In vitro,1
+37,1,RFX5,dra_human_gene,protein,gene,In vitro,1
+38,1,ccl2_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+39,1,CREBBP,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+40,1,CREM,il2_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+41,1,foxp3_human_gene,KLF10,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+42,1,HDAC1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+43,1,hoxa7_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+44,1,il2_human_gene,CREM,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+45,1,il2_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+46,1,il2_human_gene,NFATC2,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+47,1,il2_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+48,1,il2_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+49,1,KLF10,foxp3_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+50,1,RELA,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+51,1,tnfa_human_gene,RELA,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+52,1,cd44_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+53,1,HMGA1,il2ra_human_gene,protein,gene,In vitro,1
+54,1,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+55,1,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+56,1,il2ra_human_gene,STAT5A,gene,protein,In vitro,1
+57,1,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+58,1,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+59,1,N,pgh2_human_gene,protein,gene,In vitro,1
+60,1,N,pgh2_human_gene,protein,gene,In vitro,1
+61,1,pgh2_human_gene,N,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+62,1,POU5F1,nanog_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+63,1,POU5F1,nanog_human_gene,protein,gene,In vitro,1
+64,1,SP1,tf65_human_gene,protein,gene,In vitro,1
+65,1,SP1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+66,1,STAT5A,il2ra_human_gene,protein,gene,Homo sapiens YT natural-killer-like cell,1
+67,1,tf65_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+68,1,tf65_human_gene,ZBTB2,gene,protein,In vitro,1
+69,1,TP53,cd44_human_gene,protein,gene,In vitro,1
+70,1,ZBTB2,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+71,1,foxp3_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+72,1,RELA,bcl10_human_gene,protein,gene,In vitro,1
+73,1,STAT1,foxp3_human_gene,protein,gene,In vitro,1
+74,1,andr_human_gene,FOXO3,gene,protein,In vitro,1
+75,1,anf_rat_gene,CAMTA2,gene,protein,Rattus norvegicus heart,1
+76,1,anf_rat_gene,CAMTA2,gene,protein,Chlorocebus aethiops COS-1 cells,1
+77,1,anf_rat_gene,CAMTA2,gene,protein,In vitro,1
+78,1,cdkn1b_human_gene,FOXO3,gene,protein,In vitro,1
+79,1,CEBPB,3bhs2_human_gene,protein,gene,Homo sapiens KGN ovarian granulosa cell,1
+80,1,bcl2_human_gene,P0C6X7-PRO_0000037311,gene,protein,In vitro,1
+81,1,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+82,1,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+83,1,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+84,1,foxo3-myc_human,cdn1b_mouse_gene,stable complex,gene,In vitro,1
+85,1,FOXO3,tnfl6_human_gene,protein,gene,In vitro,1
+86,1,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+87,1,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+88,1,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+89,1,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+90,1,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+91,1,tnfl6_human_gene,tnfl6_human_gene,gene,gene,In vitro,1
+92,1,ATF4,apoe_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+93,1,ccl5_human_gene,GATA1,gene,protein,In vitro,1
+94,1,ccl5_human_gene,GATA2,gene,protein,In vitro,1
+95,1,ccl5_human_gene,GATA3,gene,protein,In vitro,1
+96,1,cd44_human_gene,LEF1,gene,protein,In vitro,1
+97,1,cd44_human_gene,LEF1,gene,protein,In vitro,1
+98,1,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+99,1,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+100,1,co1a2_human_gene,SMAD2,gene,protein,In vitro,1
+101,1,CREBBP,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+102,1,ELK1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+103,1,ELK1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+104,1,EP300,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+105,1,FAM47E,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+106,1,FAM47E,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+107,1,FAM47E,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+108,1,FAM47E,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+109,1,FOXE1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+110,1,FOXE1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+111,1,ifi27_human_gene,IRF1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+112,1,ikba_human_gene,MACROD1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+113,1,irf1_human_gene,STAT6,gene,protein,In vitro,1
+114,1,IRF3,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+115,1,IRF4,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+116,1,NFATC3,myocardin,protein,gene,Homo sapiens cardiomyocyte,1
+117,1,NFIL3,il3_human_gene,protein,gene,In vitro,1
+118,1,NFKB1,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+119,1,NR5A2,cp7a1_human_gene,protein,gene,In vitro,1
+120,1,POU5F1,ga45g_human_gene,protein,gene,In vitro,1
+121,1,POU5F1,lfty2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+122,1,POU5F1,ubp44_human_gene,protein,gene,In vitro,1
+123,1,prkra_human_gene,Sp1,gene,protein,In vitro,1
+124,1,PRMT5,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+125,1,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+126,1,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+127,1,PRMT5,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+128,1,PRMT5,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+129,1,PRMT5,tnap3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+130,1,RUNX1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+131,1,STAT1,ki2l4_human_gene,protein,gene,Homo sapiens natural killer,1
+132,1,THAP1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+133,1,THAP1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+134,1,THAP1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+135,1,tor1a_human_gene,THAP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+136,1,TP53,casp1_human_gene,protein,gene,In vitro,1
+137,1,ccl4_human_gene-1,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+138,1,ccl4_human_gene-1,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+139,1,tnfa_human_gene-1,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+140,1,ccl4_human_gene-1,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+141,1,tnfa_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+142,1,ccl4_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+143,1,cc4l_human_gene,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+144,1,cc4l_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+145,1,cc4l_human_gene,EBF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+146,1,cc4l_human_gene,GCM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+147,1,cc4l_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+148,1,cc4l_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+149,1,cc4l_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+150,1,cc4l_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+151,1,cc4l_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+152,1,cc4l_human_gene,ZBTB10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+153,1,cc4l_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+154,1,ccl13_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+155,1,ccl13_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+156,1,ccl13_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+157,1,ccl15_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+158,1,ccl15_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+159,1,ccl18_human_gene,BHLHE22,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+160,1,ccl18_human_gene,USF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+161,1,ccl1_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+162,1,ccl1_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+163,1,ccl20_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+164,1,ccl20_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+165,1,ccl21_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+166,1,ccl21_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+167,1,ccl23_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+168,1,ccl23_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+169,1,ccl23_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+170,1,ccl24_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+171,1,ccl24_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+172,1,ccl24_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+173,1,ccl24_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+174,1,ccl27_human_gene,KLF17,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+175,1,ccl27_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+176,1,ccl27_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+177,1,ccl27_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+178,1,ccl27_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+179,1,ccl27_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+180,1,ccl27_human_gene,ZNF18,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+181,1,ccl28_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+182,1,ccl28_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+183,1,ccl28_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+184,1,ccl28_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+185,1,ccl28_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+186,1,ccl2_human_gene,ELF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+187,1,ccl2_human_gene,ETV1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+188,1,ccl2_human_gene,ETV7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+189,1,ccl2_human_gene,GABPA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+190,1,ccl2_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+191,1,ccl2_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+192,1,ccl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+193,1,ccl3_human_gene,TGIF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+194,1,cl3l1_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+195,1,csf2_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+196,1,csf2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+197,1,csf2_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+198,1,cxcl17_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+199,1,cxcl17_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+200,1,cxcl17_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+201,1,cxcl2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+202,1,cxcl3_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+203,1,cxcl3_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+204,1,cxcl3_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+205,1,cxcl3_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+206,1,cxcl3_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+207,1,cxcl5_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+208,1,cxcl5_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+209,1,cxcl5_human_gene,ZNF281,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+210,1,cxcl9_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+211,1,cxcl9_human_gene,NFYC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+212,1,cxcl9_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+213,1,cxl10_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+214,1,cxl10_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+215,1,ifn10_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+216,1,ifn10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+217,1,ifn10_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+218,1,ifn10_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+219,1,ifn10_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+220,1,ifn16_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+221,1,ifn16_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+222,1,ifn16_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+223,1,ifn17_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+224,1,ifn21_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+225,1,ifn21_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+226,1,ifna2_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+227,1,ifna2_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+228,1,ifna4_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+229,1,ifna4_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+230,1,ifna6_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+231,1,ifna7_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+232,1,ifna7_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+233,1,ifna8_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+234,1,ifna8_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+235,1,ifng_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+236,1,ifnl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+237,1,ifnl3_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+238,1,il10_human_gene,MAFB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+239,1,il10_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+240,1,il10_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+241,1,il10_human_gene,NRL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+242,1,il10_human_gene,PLAGL1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+243,1,il10_human_gene,PLAGL2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+244,1,il10_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+245,1,il12b_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+246,1,il12b_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+247,1,il16_human_gene,MLX,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+248,1,il16_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+249,1,il17_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+250,1,il17_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+251,1,il17f_human_gene,PPARA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+252,1,il17f_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+253,1,il17f_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+254,1,il18_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+255,1,il18_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+256,1,il1ra_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+257,1,il1ra_human_gene,SP4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+258,1,il1ra_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+259,1,il20_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+260,1,il20_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+261,1,il22_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+262,1,il22_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+263,1,il22_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+264,1,il25_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+265,1,il25_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+266,1,il25_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+267,1,il25_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+268,1,il25_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+269,1,il26_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+270,1,il31_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+271,1,il31_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+272,1,il31_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+273,1,il32_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+274,1,il32_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+275,1,il32_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+276,1,il32_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+277,1,il32_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+278,1,il32_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+279,1,il32_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+280,1,il32_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+281,1,il32_human_gene,ZBTB7A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+282,1,il32_human_gene,ZBTB7B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+283,1,il36b_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+284,1,il3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+285,1,il3_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+286,1,il7_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+287,1,il7_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+288,1,il8_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+289,1,il8_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+290,1,il8_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+291,1,kitlg_human_gene,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+292,1,kitlg_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+293,1,kitlg_human_gene,TFAP2C,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+294,1,tn13b_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+295,1,tnf10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+296,1,tnf10_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+297,1,tnf10_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+298,1,tnf18_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+299,1,tnfsf8_human_gene,KLF10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+300,1,erbb2_human_gene-1,Hsp83,gene,protein,Drosophila melanogaster Schneider 2 late embryo cell,1
+301,1,NKX2-1,srbp2_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+302,1,NKX2-1,tm245_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+303,1,mir-494,SUZ12,gene,protein,Homo sapiens Ramos Burkitt's lymphoma cell,1
+304,1,abcbb_human_gene,NR1H4,gene,protein,Homo sapiens liver,1
+305,1,abcbb_human_gene,PPARGC1A,gene,protein,Homo sapiens liver,1
+306,1,AFF4,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+307,1,APEX1,mdr1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+308,1,ASXL1,clp1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+309,1,ASXL1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+310,1,ASXL1,polr2k_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+311,1,ASXL1,rpl22_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+312,1,ASXL1,taf12_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+313,1,ATF2,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+314,1,BACH2,il2_human_gene,protein,gene,Homo sapiens umbilical cord blood CD4+ T cell,1
+315,1,BCL6,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+316,1,BCL6,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+317,1,BCL6,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+318,1,BCOR,ari3a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+319,1,BCOR,cdkn1a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+320,1,BCOR,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+321,1,BCOR,irf4_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+322,1,BCOR,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+323,1,birc3_human_gene,CCDC22,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+324,1,bmpr1b_human_gene,EZH2,gene,protein,Homo sapiens glioblastoma,1
+325,1,BPTF,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+326,1,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+327,1,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+328,1,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+329,1,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+330,1,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+331,1,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+332,1,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+333,1,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+334,1,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+335,1,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+336,1,BRD4,h1bp3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+337,1,BRD4,mlf2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+338,1,caspa_human_gene,IRF4,gene,protein,Homo sapiens KMS12 myeloma cell,1
+339,1,CBX8,ari3a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+340,1,CBX8,ari3b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+341,1,CBX8,cdkn1a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+342,1,CBX8,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+343,1,CBX8,irf4_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+344,1,CBX8,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+345,1,ccnd2_human_gene,NR4A1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+346,1,ccng2_human_gene,HDAC2,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+347,1,ccng2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+348,1,cd69_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+349,1,cd8b_human_gene,CREM,gene,protein,Homo sapiens CD8+ T lymphocyte,1
+350,1,CDK9,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+351,1,CDK9,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+352,1,cdkn1b_human_gene,BCL6,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+353,1,cdkn1b_human_gene,BCOR,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+354,1,CEBPA,fto_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+355,1,CEBPB,ccl3_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+356,1,CEBPB,ccl4_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+357,1,cflar_human_gene,IRF4,gene,protein,Homo sapiens KMS12 myeloma cell,1
+358,1,cflar_human_gene,IRF4,gene,protein,Homo sapiens UTMC2 monoclonal plasma cell,1
+359,1,cflar_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+360,1,CHD4,kcd16_mouse_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+361,1,clp1_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+362,1,COMMD1,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+363,1,cp11a_human_gene,CEBPB,gene,protein,Homo sapiens KGN ovarian granulosa cell,1
+364,1,cp2a6_human_gene,H4C16,gene,protein,Homo sapiens hepatocyte,1
+365,1,cp2a6_human_gene,HNF4A,gene,protein,Homo sapiens hepatocyte,1
+366,1,CREB1,fos_mouse_gene,protein,gene,Mouse myeloid progenitor cells,1
+367,1,CREB1,vegfa_human_gene,protein,gene,Homo sapiens NCM460 colon mucosal epithelial cell,1
+368,1,CREBBP,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+369,1,CREM,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+370,1,CREM,il17f_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+371,1,CTNNB1,bcl2l1_human_gene,protein,gene,Homo sapiens HuTu80 duodenum adenocarcinoma cell,1
+372,1,CTNNB1,birc5_human_gene,protein,gene,Homo sapiens HuTu80 duodenum adenocarcinoma cell,1
+373,1,cxcl2_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+374,1,dmap1_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+375,1,DNMT1,bmpr1b_human_gene,protein,gene,Homo sapiens glioblastoma,1
+376,1,EP300,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+377,1,EP300,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+378,1,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+379,1,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+380,1,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+381,1,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+382,1,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+383,1,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+384,1,fos_human_gene,SMARCB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+385,1,fos_mouse_gene,MEIS1,gene,protein,Mouse myeloid progenitor cells,1
+386,1,FOSL2,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+387,1,FOSL2,sox4_human_gene,protein,gene,Homo sapiens ST1 adult T cell lymphoma cell,1
+388,1,fosl2_human_gene,STAT5A,gene,protein,Homo sapiens T-lymphoblast,1
+389,1,FOXK1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+390,1,FOXM1,lef1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+391,1,FOXM1,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+392,1,FOXP3,ctla4_mouse_gene,protein,gene,Mouse T cell,1
+393,1,Foxp3,ifng_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+394,1,Foxp3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+395,1,FOXP3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+396,1,FOXP3,il2_mouse_gene,protein,gene,Mouse T cell,1
+397,1,FOXP3,il2ra_mouse_gene,protein,gene,Mouse T cell,1
+398,1,foxp3_human_gene,HDAC1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+399,1,foxp3_human_gene,KAT2B,gene,protein,Homo sapiens CD4+ T-cell,1
+400,1,foxp3_human_gene,NFATC2,gene,protein,Homo sapiens CD4+ T-cell,1
+401,1,foxp3_human_gene,SIN3A,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+402,1,foxp3_human_gene,STAT3,gene,protein,Homo sapiens CD4+ T-cell,1
+403,1,fril_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+404,1,h1bp3_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+405,1,H4C16,fos_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+406,1,H4C16,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+407,1,H4C16,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+408,1,H4C16,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+409,1,H4C16,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+410,1,HCFC1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+411,1,HCFC1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+412,1,HCFC1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+413,1,HCFC1,tor1a_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+414,1,hck_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+415,1,hck_human_gene,RXRA,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+416,1,HDAC1,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+417,1,hdac6_human_gene,ERG,gene,protein,Homo sapiens endothelium,1
+418,1,hist1h2bh_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+419,1,hist1h3c_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+420,1,hist1h4e_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+421,1,hme1_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+422,1,hme1_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+423,1,hme2_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+424,1,hme2_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+425,1,HNF4A,myc_human_gene,protein,gene,Homo sapiens gastric tissue,1
+426,1,HNRNPK,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+427,1,hoxa5_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+428,1,hoxa7_human_gene,KAT6A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+429,1,hoxa9_human_gene,CDC73,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+430,1,hoxa9_human_gene,PAF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+431,1,hoxa9_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+432,1,hoxa9_mouse_gene,KAT5,gene,protein,Mus musculus,1
+433,1,hsp70_human_gene,AFF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+434,1,hsp70_human_gene,MED1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+435,1,hsp70_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+436,1,hsp70_human_gene,TBP,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+437,1,ifng_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+438,1,ifng_human_gene,RUNX1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+439,1,ifng_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+440,1,ifng_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+441,1,igfbp7_human_gene,JUN,gene,protein,Homo sapiens melanocyte,1
+442,1,ikba_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+443,1,il10_mouse_gene,SP1,gene,protein,mouse M15 cells,1
+444,1,il2_human_gene,FOS,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+445,1,il2_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+446,1,il2_human_gene,JUNB,gene,protein,Homo sapiens umbilical cord blood CD4+ T cell,1
+447,1,il2_human_gene,RUNX1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+448,1,il2_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+449,1,il2_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+450,1,il2ra_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+451,1,il2ra_human_gene,STAT5B,gene,protein,Homo sapiens YT natural-killer-like cell,1
+452,1,il8_human_gene,RPS3,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+453,1,IRF4,caspa_human_gene,protein,gene,Homo sapiens KMS12 myeloma cell,1
+454,1,IRF4,caspa_human_gene,protein,gene,Homo sapiens UTMC2 monoclonal plasma cell,1
+455,1,IRF4,cflar_human_gene,protein,gene,Homo sapiens KMS12 myeloma cell,1
+456,1,IRF5,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+457,1,JMJD6,dmap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+458,1,JMJD6,kat5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+459,1,JUN,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+460,1,JUN,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+461,1,jun_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+462,1,JUND,sox4_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+463,1,JUND,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+464,1,kat5_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+465,1,KAT6A,hoxa5_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+466,1,KAT6A,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+467,1,Klf2,s1pr1_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+468,1,klf4_human_gene,SPI1,gene,protein,Homo sapiens,1
+469,1,KLF6,il8_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+470,1,KMT2A,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+471,1,KMT2A,msx2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+472,1,KSR1,cdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+473,1,lef1_human_gene,CTNNB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+474,1,lef1_human_gene,TCF7L2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+475,1,LEO1,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+476,1,mdm2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-DZ neuroblastoma cell,1
+477,1,MED1,podxl_human_gene,protein,gene,Homo sapiens HGEC glomerular endothelial cell,1
+478,1,MED26,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+479,1,MED26,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+480,1,mlf2_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+481,1,mmp3_human_gene,STAT3,gene,protein,Homo sapiens brain microvascular endothelium,1
+482,1,msx2_human_gene,PPIE,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+483,1,msx2_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+484,1,MTDH,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+485,1,myc_human_gene,AFF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+486,1,myc_human_gene,ELL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+487,1,myc_human_gene,FOXM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+488,1,myc_human_gene,MLLT3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+489,1,myc_human_gene,MYB,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+490,1,myc_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+491,1,MYCN,apex1_mouse_gene,protein,gene,Mouse Neuroblastoma,1
+492,1,MYCN,apr_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+493,1,MYCN,apr_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+494,1,MYCN,mdm2_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+495,1,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+496,1,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+497,1,Ncor1,pdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+498,1,NCOR1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+499,1,NFATC1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+500,1,NFKBIZ,il6_human_gene,protein,gene,Homo sapiens decidua,1
+501,1,NR4A1,ccnd2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+502,1,P19838-PRO_0000030311,tnfl6_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+503,1,pa24a_human_gene,EP300,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+504,1,pa24a_human_gene,FOS,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+505,1,pckcg_human_gene,ZNF746,gene,protein,Homo sapiens SH-SY5Y cell,1
+506,1,pdk4_human_gene,ESRRA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+507,1,pdk4_human_gene,PPARGC1A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+508,1,PML-RAR,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+509,1,PML-RAR,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+510,1,PML-RAR,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+511,1,PML-RAR,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+512,1,PML-RAR,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+513,1,PML-RAR,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+514,1,PML-RAR,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+515,1,podxl_human_gene,H4C16,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+516,1,podxl_human_gene,VDR,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+517,1,POLR2A,g3p_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+518,1,polr2k_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+519,1,PPIE,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+520,1,prdm1_human_gene,BCOR,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+521,1,prgc1_human_gene,ZNF746,gene,protein,Homo sapiens brain,1
+522,1,Q03164-PRO_0000390949,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+523,1,rarb_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+524,1,REL,foxp3_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+525,1,RELA,cxcl2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+526,1,RELA,nod2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+527,1,rnls_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+528,1,rnls_human_gene,STAT3,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+529,1,rorg_human_gene,USF2,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+530,1,rpl22_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+531,1,RPS3,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+532,1,RPS3,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+533,1,RPS3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+534,1,RPS3,il8_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+535,1,RXRA,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+536,1,RXRA,rarb_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+537,1,SMAD1,id1_mouse_gene,protein,gene,Mouse C3H muscle myoblast,1
+538,1,SMAD1,smad7_mouse_gene,protein,gene,Mouse C3H muscle myoblast,1
+539,1,SMAD3,zeb2_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+540,1,sox17_human_gene,POU5F1,gene,protein,Homo sapiens IPS induced pluripotent stem cell,1
+541,1,sox4_human_gene,JUND,gene,protein,Homo sapiens ST1 adult T cell lymphoma cell,1
+542,1,SP1,ccng2_human_gene,protein,gene,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+543,1,Sp3,prkra_human_gene,protein,gene,In vitro,1
+544,1,SP6,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+545,1,SPI1,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+546,1,SPI1,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+547,1,SPI1,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+548,1,SPI1,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+549,1,SPI1,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+550,1,SPI1,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+551,1,SPI1,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+552,1,spi1_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+553,1,star_human_gene,CEBPB,gene,protein,Homo sapiens KGN ovarian granulosa cell,1
+554,1,Stat3,mmp3_human_gene,protein,gene,Homo sapiens brain microvascular endothelium,1
+555,1,STAT5B,fosl2_human_gene,protein,gene,Homo sapiens T-lymphoblast,1
+556,1,taf12_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+557,1,TBP,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+558,1,tnfa_human_gene,IRF5,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+559,1,tnfa_human_gene,POLR2A,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+560,1,tnfl6_human_gene,CTNNB1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+561,1,tnfl6_human_gene,NR3C1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+562,1,tnfl6_human_gene,TCF4,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+563,1,TP73,hist1h2bj_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+564,1,USF1,rorg_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+565,1,YAP1,1433s_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+566,1,YAP1,bcl2l1_human_gene,protein,gene,Homo sapiens HuTu80 duodenum adenocarcinoma cell,1
+567,1,YAP1,birc5_human_gene,protein,gene,Homo sapiens HuTu80 duodenum adenocarcinoma cell,1
+568,1,ZNF148,rnls_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+569,1,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
+570,1,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens brain,1
+571,1,ZNF746,pckcg_human_gene,protein,gene,Homo sapiens brain,1
+572,1,ZNF746,prgc1_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
+573,2,cdkn1a_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+574,2,cdkn1a_human_gene,TP53,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+575,2,TP53,cdkn1a_human_gene,protein,gene,In vitro,1
+576,2,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+577,2,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+578,2,AR,klk3_human_gene,protein,gene,Homo sapiens prostate tissue,1
+579,2,RELA,ikba_human_gene,protein,gene,In vitro,1
+580,2,RELA,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+581,2,il8_human_gene,RELA,gene,protein,Homo sapiens H4 neurogioma cell,1
+582,2,il8_human_gene,RELA,gene,protein,Homo sapiens Chang liver cell,1
+583,2,il8_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+584,2,RELA,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+585,2,RELA,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+586,2,RELA,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+587,2,GCM1,htra4_human_gene,protein,gene,In vitro,1
+588,2,GCM1,htra4_human_gene,protein,gene,In vitro,1
+589,2,GCM1,htra4_human_gene,protein,gene,In vitro,1
+590,2,htra4_human_gene,GCM1,gene,protein,In vitro,1
+591,2,htra4_human_gene,GCM1,gene,protein,In vitro,1
+592,2,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+593,2,foxp3_human_gene,H4C16,gene,protein,Homo sapiens regulatory T-lymphocyte,1
+594,2,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+595,2,HIF1A,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+596,2,HIF1A,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+597,2,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+598,2,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+599,2,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+600,2,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+601,2,vegfa_human_gene,HIF1A,gene,protein,Homo sapiens SMMC7721 hepatoma cell,1
+602,2,mmp1_human_gene,JUN,gene,protein,Homo sapiens diploid fibroblast,1
+603,2,mmp1_human_gene,JUN,gene,protein,In vitro,1
+604,2,mmp1_human_gene,JUN,gene,protein,Homo sapiens diploid fibroblast,1
+605,2,irf1_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+606,2,irf1_human_gene,STAT1,gene,protein,In vitro,1
+607,2,mdm2_human_gene,TP53,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+608,2,RELA,birc3_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+609,2,RELA,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+610,2,bim_human_gene,FOXO3,gene,protein,In vitro,1
+611,2,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+612,2,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+613,2,PARP1,brca2_human_gene,protein,gene,In vitro,1
+614,2,PARP1,brca2_human_gene,protein,gene,In vitro,1
+615,2,PARP1,brca2_human_gene,protein,gene,In vitro,1
+616,2,fkbp5_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+617,2,klk3_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+618,2,POU5F1,sox2_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+619,2,POU5F1,sox2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+620,2,RFX5,dra_human_gene,protein,gene,In vitro,1
+621,2,RFX5,dra_human_gene,protein,gene,In vitro,1
+622,2,sox2_human_gene,POU5F1,gene,protein,Homo sapiens ES embryonic stem cell,1
+623,2,tmps2_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+624,2,axin2_human_gene,CTNNB1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+625,2,ccl2_human_gene,RELA,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+626,2,ccl2_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+627,2,cdkn1a_human_gene,EP300,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+628,2,cdkn1a_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+629,2,cdkn1a_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+630,2,CREBBP,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+631,2,CREM,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+632,2,CREM,il2_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+633,2,crem_human_gene,SP1,gene,protein,Homo sapiens T-cell,1
+634,2,crem_human_gene,SP1,gene,protein,Homo sapiens T-cell,1
+635,2,E2F1,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+636,2,E2F1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+637,2,E2F1,ccna2_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+638,2,E2F1,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+639,2,fos_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+640,2,HDAC1,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+641,2,hoxa7_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+642,2,hoxa7_human_gene,KMT2A,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+643,2,icam1_human_gene,RELA,gene,protein,Homo sapiens umbilical vein endotheliium,1
+644,2,icam1_human_gene,RELA,gene,protein,Homo sapiens umbilical vein endotheliium,1
+645,2,il2_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+646,2,il2_human_gene,FOXP3,gene,protein,Homo sapiens T-cell,1
+647,2,il2_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+648,2,il2_human_gene,HDAC1,gene,protein,Homo sapiens T-cell,1
+649,2,JUN,mmp9_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+650,2,KLF10,foxp3_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+651,2,mmp9_human_gene,JUN,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+652,2,NFATC2,il2_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+653,2,NR5A1,star_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+654,2,PRKDC,klk3_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+655,2,PRKDC,pla1a_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+656,2,RELA,birc2_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+657,2,RELA,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+658,2,star_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+659,2,tmps2_human_gene,PRKDC,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+660,2,tnfa_human_gene,RELA,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+661,2,tp73_human_gene,E2F1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+662,2,cd44_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+663,2,HMGA1,il2ra_human_gene,protein,gene,In vitro,1
+664,2,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+665,2,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+666,2,il2ra_human_gene,STAT5A,gene,protein,In vitro,1
+667,2,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+668,2,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+669,2,N,pgh2_human_gene,protein,gene,In vitro,1
+670,2,N,pgh2_human_gene,protein,gene,In vitro,1
+671,2,pgh2_human_gene,N,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+672,2,POU5F1,nanog_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+673,2,POU5F1,nanog_human_gene,protein,gene,In vitro,1
+674,2,SP1,tf65_human_gene,protein,gene,In vitro,1
+675,2,SP1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+676,2,STAT5A,il2ra_human_gene,protein,gene,Homo sapiens YT natural-killer-like cell,1
+677,2,tf65_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+678,2,tf65_human_gene,ZBTB2,gene,protein,In vitro,1
+679,2,TP53,cd44_human_gene,protein,gene,In vitro,1
+680,2,ZBTB2,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+681,2,foxp3_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+682,2,RELA,bcl10_human_gene,protein,gene,In vitro,1
+683,2,STAT1,foxp3_human_gene,protein,gene,In vitro,1
+684,2,3bhs2_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+685,2,3bhs2_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+686,2,3bhs2_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+687,2,3bhs2_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+688,2,andr_human_gene,FOXO3,gene,protein,In vitro,1
+689,2,anf_rat_gene,CAMTA2,gene,protein,Rattus norvegicus heart,1
+690,2,anf_rat_gene,CAMTA2,gene,protein,Chlorocebus aethiops COS-1 cells,1
+691,2,anf_rat_gene,CAMTA2,gene,protein,In vitro,1
+692,2,ASAH1,cp17a_human_gene,protein,gene,Homo sapiens H295R adrenocortical cell,1
+693,2,CDC73,gata2_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+694,2,cdkn1b_human_gene,FOXO3,gene,protein,In vitro,1
+695,2,cp17a_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+696,2,cp17a_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+697,2,gata1_human_gene,CDC73,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+698,2,NR5A1,cp17a_human_gene,protein,gene,Homo sapiens H295R adrenocortical cell,1
+699,2,TRIM33,gata1_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+700,2,TRIM33,gata2_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+701,2,bcl2_human_gene,P0C6X7-PRO_0000037311,gene,protein,In vitro,1
+702,2,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+703,2,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+704,2,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+705,2,foxo3-myc_human,cdn1b_mouse_gene,stable complex,gene,In vitro,1
+706,2,FOXO3,tnfl6_human_gene,protein,gene,In vitro,1
+707,2,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+708,2,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+709,2,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+710,2,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+711,2,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+712,2,tnfl6_human_gene,tnfl6_human_gene,gene,gene,In vitro,1
+713,2,mir128-1 gene,JUN,gene,protein,Homo sapiens U-87 MG glioblastoma cell,1
+714,2,ATF4,apoe_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+715,2,ccl5_human_gene,GATA1,gene,protein,In vitro,1
+716,2,ccl5_human_gene,GATA2,gene,protein,In vitro,1
+717,2,ccl5_human_gene,GATA3,gene,protein,In vitro,1
+718,2,cd44_human_gene,LEF1,gene,protein,In vitro,1
+719,2,cd44_human_gene,LEF1,gene,protein,In vitro,1
+720,2,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+721,2,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+722,2,co1a2_human_gene,SMAD2,gene,protein,In vitro,1
+723,2,co1a2_human_gene,SP1,gene,protein,Homo sapiens diploid fibroblast,1
+724,2,CREBBP,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+725,2,CRY1,dbp_mouse_gene,protein,gene,Mus musculus embryonic fibroblasts,1
+726,2,CRY1,per2_mouse_gene,protein,gene,Mus musculus embryonic fibroblasts,1
+727,2,dbloh_human_gene,E2F1,gene,protein,Homo sapiens bone marrow stroma,1
+728,2,dbloh_human_gene,PAWR,gene,protein,Homo sapiens bone marrow stroma,1
+729,2,ELK1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+730,2,ELK1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+731,2,EP300,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+732,2,FAM47E,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+733,2,FAM47E,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+734,2,FAM47E,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+735,2,FAM47E,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+736,2,fas_human_gene,CTBP2,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+737,2,fas_human_gene,KDM1A,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+738,2,fas_human_gene,ZBTB18,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+739,2,fas_human_gene,ZNF217,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+740,2,FOXE1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+741,2,FOXE1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+742,2,H4C16,invo_human_gene,protein,gene,Homo sapiens keratinocyte,1
+743,2,HOXA9,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+744,2,HOXA9,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+745,2,icos_human_gene,ROCK2,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+746,2,ifi27_human_gene,IRF1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+747,2,ikba_human_gene,MACROD1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+748,2,il6_human_gene,CEBPB,gene,protein,Homo sapiens 22rv1 cell,1
+749,2,invo_human_gene,PRMT5,gene,protein,Homo sapiens keratinocyte,1
+750,2,IRF1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+751,2,IRF1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+752,2,irf1_human_gene,STAT6,gene,protein,In vitro,1
+753,2,IRF3,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+754,2,IRF4,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+755,2,KDM1A,acaca_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+756,2,KDM1A,ldrl_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+757,2,KDM1A,lss_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+758,2,KDM1A,sqle_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+759,2,KDM1A,srbp1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+760,2,klf9_human_gene,GTF2H2,gene,protein,Homo sapiens diploid fibroblast,1
+761,2,NFATC3,myocardin,protein,gene,Homo sapiens cardiomyocyte,1
+762,2,NFIL3,il3_human_gene,protein,gene,In vitro,1
+763,2,NFKB1,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+764,2,NR5A2,cp7a1_human_gene,protein,gene,In vitro,1
+765,2,PBX2,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+766,2,PBX2,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+767,2,PKNOX1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+768,2,PKNOX1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+769,2,POU5F1,ga45g_human_gene,protein,gene,In vitro,1
+770,2,POU5F1,lfty2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+771,2,POU5F1,ubp44_human_gene,protein,gene,In vitro,1
+772,2,prdm1_human_gene,ROCK2,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+773,2,prkra_human_gene,Sp1,gene,protein,In vitro,1
+774,2,PRMT5,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+775,2,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+776,2,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+777,2,PRMT5,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+778,2,PRMT5,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+779,2,PRMT5,tnap3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+780,2,ROCK2,a0a087wzx0_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+781,2,ROCK2,c9jl16_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+782,2,ROCK2,cxcr5_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+783,2,ROCK2,f8wb75_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+784,2,ROCK2,g3v266_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+785,2,ROCK2,irf4_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+786,2,ROCK2,maf_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+787,2,ROCK2,pdcd1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+788,2,ROCK2,rorg_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+789,2,ROCK2,stat3_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+790,2,ROCK2,tob1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+791,2,ROCK2,txlna_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+792,2,STAT1,ki2l4_human_gene,protein,gene,Homo sapiens natural killer,1
+793,2,STAT3,a0a087wzx0_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+794,2,STAT3,c9jl16_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+795,2,STAT3,cxcr5_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+796,2,STAT3,f8wb75_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+797,2,STAT3,g3v266_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+798,2,STAT3,icos_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+799,2,STAT3,irf4_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+800,2,STAT3,maf_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+801,2,STAT3,pdcd1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+802,2,STAT3,prdm1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+803,2,STAT3,rorg_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+804,2,STAT3,tob1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+805,2,THAP1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+806,2,THAP1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+807,2,THAP1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+808,2,tor1a_human_gene,THAP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+809,2,TP53,casp1_human_gene,protein,gene,In vitro,1
+810,2,txlna_human_gene,STAT3,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+811,2,txnip_human_gene,FOXO3,gene,protein,Homo sapiens 2BS embryonic lung diploid fibroblast cell,1
+812,2,WDR77,invo_human_gene,protein,gene,Homo sapiens keratinocyte,1
+813,2,ZEB2,meox2_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+814,2,ZNF217,acaca_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+815,2,ZNF217,cyp51a1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+816,2,ZNF217,gsk3a_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+817,2,ZNF217,inig1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+818,2,ZNF217,ldrl_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+819,2,ZNF217,lss_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+820,2,ZNF217,sqle_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+821,2,ZNF217,srbp1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+822,2,ccl4_human_gene-1,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+823,2,ccl4_human_gene-1,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+824,2,tnfa_human_gene-1,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+825,2,ccl4_human_gene-1,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+826,2,tnfa_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+827,2,ccl4_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+828,2,cc4l_human_gene,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+829,2,cc4l_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+830,2,cc4l_human_gene,EBF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+831,2,cc4l_human_gene,GCM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+832,2,cc4l_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+833,2,cc4l_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+834,2,cc4l_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+835,2,cc4l_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+836,2,cc4l_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+837,2,cc4l_human_gene,ZBTB10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+838,2,cc4l_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+839,2,ccl13_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+840,2,ccl13_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+841,2,ccl13_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+842,2,ccl15_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+843,2,ccl15_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+844,2,ccl18_human_gene,BHLHE22,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+845,2,ccl18_human_gene,USF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+846,2,ccl1_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+847,2,ccl1_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+848,2,ccl20_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+849,2,ccl20_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+850,2,ccl21_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+851,2,ccl21_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+852,2,ccl23_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+853,2,ccl23_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+854,2,ccl23_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+855,2,ccl24_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+856,2,ccl24_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+857,2,ccl24_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+858,2,ccl24_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+859,2,ccl27_human_gene,KLF17,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+860,2,ccl27_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+861,2,ccl27_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+862,2,ccl27_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+863,2,ccl27_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+864,2,ccl27_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+865,2,ccl27_human_gene,ZNF18,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+866,2,ccl28_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+867,2,ccl28_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+868,2,ccl28_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+869,2,ccl28_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+870,2,ccl28_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+871,2,ccl2_human_gene,ELF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+872,2,ccl2_human_gene,ETV1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+873,2,ccl2_human_gene,ETV7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+874,2,ccl2_human_gene,GABPA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+875,2,ccl2_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+876,2,ccl2_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+877,2,ccl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+878,2,ccl3_human_gene,TGIF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+879,2,cl3l1_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+880,2,csf2_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+881,2,csf2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+882,2,csf2_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+883,2,cxcl17_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+884,2,cxcl17_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+885,2,cxcl17_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+886,2,cxcl2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+887,2,cxcl3_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+888,2,cxcl3_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+889,2,cxcl3_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+890,2,cxcl3_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+891,2,cxcl3_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+892,2,cxcl5_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+893,2,cxcl5_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+894,2,cxcl5_human_gene,ZNF281,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+895,2,cxcl9_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+896,2,cxcl9_human_gene,NFYC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+897,2,cxcl9_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+898,2,cxl10_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+899,2,cxl10_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+900,2,ifn10_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+901,2,ifn10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+902,2,ifn10_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+903,2,ifn10_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+904,2,ifn10_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+905,2,ifn16_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+906,2,ifn16_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+907,2,ifn16_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+908,2,ifn17_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+909,2,ifn21_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+910,2,ifn21_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+911,2,ifna2_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+912,2,ifna2_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+913,2,ifna4_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+914,2,ifna4_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+915,2,ifna6_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+916,2,ifna7_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+917,2,ifna7_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+918,2,ifna8_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+919,2,ifna8_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+920,2,ifng_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+921,2,ifnl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+922,2,ifnl3_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+923,2,il10_human_gene,MAFB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+924,2,il10_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+925,2,il10_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+926,2,il10_human_gene,NRL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+927,2,il10_human_gene,PLAGL1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+928,2,il10_human_gene,PLAGL2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+929,2,il10_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+930,2,il12b_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+931,2,il12b_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+932,2,il16_human_gene,MLX,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+933,2,il16_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+934,2,il17_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+935,2,il17_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+936,2,il17f_human_gene,PPARA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+937,2,il17f_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+938,2,il17f_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+939,2,il18_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+940,2,il18_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+941,2,il1ra_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+942,2,il1ra_human_gene,SP4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+943,2,il1ra_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+944,2,il20_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+945,2,il20_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+946,2,il22_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+947,2,il22_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+948,2,il22_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+949,2,il25_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+950,2,il25_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+951,2,il25_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+952,2,il25_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+953,2,il25_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+954,2,il26_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+955,2,il31_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+956,2,il31_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+957,2,il31_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+958,2,il32_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+959,2,il32_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+960,2,il32_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+961,2,il32_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+962,2,il32_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+963,2,il32_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+964,2,il32_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+965,2,il32_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+966,2,il32_human_gene,ZBTB7A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+967,2,il32_human_gene,ZBTB7B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+968,2,il36b_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+969,2,il3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+970,2,il3_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+971,2,il7_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+972,2,il7_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+973,2,il8_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+974,2,il8_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+975,2,il8_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+976,2,kitlg_human_gene,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+977,2,kitlg_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+978,2,kitlg_human_gene,TFAP2C,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+979,2,tn13b_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+980,2,tnf10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+981,2,tnf10_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+982,2,tnf10_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+983,2,tnf18_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+984,2,tnfsf8_human_gene,KLF10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+985,2,erbb2_human_gene-1,Hsp83,gene,protein,Drosophila melanogaster Schneider 2 late embryo cell,1
+986,2,NKX2-1,srbp2_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+987,2,NKX2-1,tm245_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+988,2,mir-122_human_gene,HNF4A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+989,2,mir-122_human_gene,POLR2A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+990,2,H1-4,atoh1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+991,2,H1-4,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+992,2,H1-4,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+993,2,H1-4,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+994,2,abcbb_human_gene,CARM1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+995,2,abcbb_human_gene,NCOA1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+996,2,abcbb_human_gene,NCOA2,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+997,2,abcbb_human_gene,NCOR1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+998,2,abcbb_human_gene,NR1H4,gene,protein,Homo sapiens liver,1
+999,2,abcbb_human_gene,PPARGC1A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1000,2,abcbb_human_gene,PPARGC1A,gene,protein,Homo sapiens liver,1
+1001,2,acthr_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1002,2,acthr_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1003,2,AFF4,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1004,2,APEX1,mdr1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1005,2,ASF1A,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1006,2,ASXL1,clp1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1007,2,ASXL1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1008,2,ASXL1,polr2k_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1009,2,ASXL1,rpl22_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1010,2,ASXL1,taf12_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1011,2,ATF2,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+1012,2,axin2_human_gene,FOXM1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+1013,2,BACH2,il2_human_gene,protein,gene,Homo sapiens umbilical cord blood CD4+ T cell,1
+1014,2,bambi_human_gene,HDAC1,gene,protein,Homo sapiens LX-2 hepatic stellate cell,1
+1015,2,bambi_human_gene,P19838-PRO_0000030311,gene,protein,Homo sapiens LX-2 hepatic stellate cell,1
+1016,2,bax_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1017,2,Bcl6,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1018,2,Bcl6,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1019,2,BCOR,cdkn1b_human_gene,protein,gene,Homo sapiens B cell,1
+1020,2,BCOR,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1021,2,BCOR,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1022,2,BCOR,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1023,2,birc3_human_gene,CCDC22,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1024,2,bmi1_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+1025,2,bmi1_human_gene,BCOR,gene,protein,Homo sapiens B cell,1
+1026,2,bmpr1b_human_gene,EZH2,gene,protein,Homo sapiens glioblastoma,1
+1027,2,BPTF,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1028,2,brca1_human_gene,GABPA,gene,protein,Homo sapiens IOSE ovarian epithelial cell,1
+1029,2,brca1_human_gene,JUN,gene,protein,Homo sapiens IOSE ovarian epithelial cell,1
+1030,2,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1031,2,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1032,2,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1033,2,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1034,2,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1035,2,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1036,2,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1037,2,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1038,2,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1039,2,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1040,2,BRD4,h1bp3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1041,2,BRD4,mlf2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1042,2,BRD7,bbc3_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1043,2,BRD7,cdkn1a_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1044,2,BRD7,mdm2_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1045,2,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1046,2,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1047,2,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1048,2,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1049,2,ccna2_human_gene,H4C16,gene,protein,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1050,2,ccna2_human_gene,HDAC1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1051,2,ccna2_human_gene,RB1,gene,protein,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1052,2,ccna2_human_gene,RB1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1053,2,ccnd1_human_gene,POLR2A,gene,protein,Homo sapiens colonic cancer tissue,1
+1054,2,ccnd1_human_gene,RPRD1B,gene,protein,Homo sapiens colonic cancer tissue,1
+1055,2,ccnd2_human_gene,NR4A1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1056,2,ccng2_human_gene,HDAC2,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+1057,2,ccng2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+1058,2,ccr4_human_gene,JUND,gene,protein,Homo sapiens adult T-cell lymphoma cell,1
+1059,2,cd8b_human_gene,CREM,gene,protein,Homo sapiens CD8+ T lymphocyte,1
+1060,2,CDK9,hem0_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+1061,2,CDK9,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1062,2,CDK9,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1063,2,cdkn1a_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1064,2,cdkn1a_human_gene,FOXO3,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1065,2,cdkn1a_human_gene,MYC,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1066,2,cdkn1a_human_gene,SMAD4,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1067,2,cdkn1b_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+1068,2,cdkn1b_human_gene,BCL6,gene,protein,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1069,2,CEBPA,fto_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1070,2,CEBPB,ccl3_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+1071,2,CEBPB,ccl4_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+1072,2,CEBPB,cp11a_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1073,2,CEBPB,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1074,2,CEBPB,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1075,2,CEBPB,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1076,2,CEBPB,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+1077,2,cflar_human_gene,IRF4,gene,protein,Homo sapiens UTMC2 monoclonal plasma cell,1
+1078,2,cflar_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+1079,2,CHD4,kcd16_mouse_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1080,2,CHD7,gli2_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1081,2,CHD7,jag1_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1082,2,clp1_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1083,2,COMMD1,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1084,2,cp11a_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1085,2,cp17a_human_gene,H4C16,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1086,2,cp17a_human_gene,NCOA1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1087,2,cp17a_human_gene,POLR2A,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1088,2,cp2a6_human_gene,H4C16,gene,protein,Homo sapiens hepatocyte,1
+1089,2,cp2a6_human_gene,HNF4A,gene,protein,Homo sapiens hepatocyte,1
+1090,2,CREB1,vegfa_human_gene,protein,gene,Homo sapiens NCM460 colon mucosal epithelial cell,1
+1091,2,CREBBP,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1092,2,Crem,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+1093,2,CREM,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1094,2,CREM,il17f_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1095,2,CREM,il17f_human_gene,protein,gene,Homo sapiens T-cell,1
+1096,2,crum3_human_gene,FOS,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+1097,2,cxcl2_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1098,2,dmap1_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1099,2,DNMT1,bmpr1b_human_gene,protein,gene,Homo sapiens glioblastoma,1
+1100,2,DNMT3A,il17_human_gene,protein,gene,Homo sapiens T-cell,1
+1101,2,DNMT3A,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+1102,2,DPF3,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+1103,2,DPF3,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+1104,2,e1a_ade05,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1105,2,e1a_ade05,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1106,2,EED,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1107,2,EP300,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1108,2,EP300,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+1109,2,EP300,vegfa_human_gene,protein,gene,Homo sapiens 22rv1 cell,1
+1110,2,EZH2,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1111,2,fas_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1112,2,fas_human_gene,PRKDC,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+1113,2,fas_human_gene,USF1,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+1114,2,fas_human_gene,XRCC5,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+1115,2,fkbp5_human_gene,PARP1,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1116,2,fkbp5_human_gene,PRKDC,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1117,2,fkbp5_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1118,2,FOS,cadh1_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+1119,2,fos_human_gene,SMARCB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1120,2,fos_human_gene,TWIST1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+1121,2,fosl1_human_gene,SNAI1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+1122,2,FOSL2,brca1_human_gene,protein,gene,Homo sapiens IOSE ovarian epithelial cell,1
+1123,2,FOSL2,ccr4_human_gene,protein,gene,Homo sapiens adult T-cell lymphoma cell,1
+1124,2,FOSL2,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+1125,2,FOSL2,sox4_human_gene,protein,gene,Homo sapiens ST1 adult T cell lymphoma cell,1
+1126,2,fosl2_human_gene,STAT5A,gene,protein,Homo sapiens T-lymphoblast,1
+1127,2,FOXK1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1128,2,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+1129,2,FOXM1,lef1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1130,2,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+1131,2,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+1132,2,FOXM1,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1133,2,FOXO1,klf2_human_gene,protein,gene,Homo sapiens T-cell,1
+1134,2,FOXO3,gdf8_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+1135,2,FOXO3,tgfb1_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+1136,2,FOXP3,ctla4_mouse_gene,protein,gene,Mouse T cell,1
+1137,2,FOXP3,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+1138,2,FOXP3,il2_mouse_gene,protein,gene,Mouse T cell,1
+1139,2,FOXP3,il2ra_mouse_gene,protein,gene,Mouse T cell,1
+1140,2,foxp3_human_gene,KAT2B,gene,protein,Homo sapiens CD4+ T-cell,1
+1141,2,foxp3_human_gene,NFATC2,gene,protein,Homo sapiens CD4+ T-cell,1
+1142,2,foxp3_human_gene,STAT3,gene,protein,Homo sapiens CD4+ T-cell,1
+1143,2,fril_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+1144,2,g3p_human_gene,POLR2A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1145,2,gata1_human_gene,CDK9,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1146,2,gata2_human_gene,CDK9,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1147,2,gli2_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1148,2,gli3_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1149,2,gli3_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1150,2,h1bp3_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1151,2,H4C16,atoh1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1152,2,H4C16,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1153,2,H4C16,fos_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1154,2,H4C16,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1155,2,H4C16,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1156,2,H4C16,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1157,2,H4C16,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1158,2,H4C16,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1159,2,H4C16,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+1160,2,H4C16,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1161,2,H4C16,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1162,2,HCFC1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1163,2,HCFC1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1164,2,HCFC1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1165,2,HCFC1,tor1a_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1166,2,hck_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+1167,2,hck_human_gene,RXRA,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+1168,2,HDAC1,bambi_human_gene,protein,gene,Homo sapiens hepatic stellate cell,1
+1169,2,HDAC1,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+1170,2,HDAC1,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1171,2,HDAC1,il17_human_gene,protein,gene,Homo sapiens T-cell,1
+1172,2,hdac6_human_gene,ERG,gene,protein,Homo sapiens endothelium,1
+1173,2,hem0_human_gene,CDC73,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1174,2,hem0_human_gene,TRIM33,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1175,2,hes6_human_gene,EP300,gene,protein,Homo sapiens 22rv1 cell,1
+1176,2,hist1h2bh_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1177,2,hist1h3c_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1178,2,hist1h4e_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1179,2,hme1_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1180,2,hme1_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1181,2,hme2_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1182,2,hme2_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1183,2,HNF4A,apoc3_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+1184,2,HNF4A,myc_human_gene,protein,gene,Homo sapiens gastric tissue,1
+1185,2,HNRNPK,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+1186,2,hoxa5_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1187,2,hoxa5_human_gene,KMT2A,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1188,2,hoxa7_human_gene,KAT6A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1189,2,hoxa7_human_gene,KAT6A,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1190,2,hoxa9_human_gene,CDC73,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1191,2,hoxa9_human_gene,KAT6A,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1192,2,hoxa9_human_gene,PAF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1193,2,hoxa9_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1194,2,hoxa9_mouse_gene,KAT5,gene,protein,Mus musculus,1
+1195,2,hsp70_human_gene,AFF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1196,2,hsp70_human_gene,MED1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1197,2,hsp70_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1198,2,hsp70_human_gene,TBP,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1199,2,hxa10_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+1200,2,hxd3_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+1201,2,ifng_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+1202,2,ifng_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+1203,2,ifng_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+1204,2,ifnl1_human_gene,IRF1,gene,protein,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1205,2,ifnl1_human_gene,ZEB1,gene,protein,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1206,2,igfbp7_human_gene,JUN,gene,protein,Homo sapiens melanocyte,1
+1207,2,ikba_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1208,2,il10_human_gene,PARP1,gene,protein,Homo sapiens mononuclear cell,1
+1209,2,il10_mouse_gene,SP1,gene,protein,mouse M15 cells,1
+1210,2,il17_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+1211,2,il2_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+1212,2,il2_human_gene,JUNB,gene,protein,Homo sapiens umbilical cord blood CD4+ T cell,1
+1213,2,il2_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+1214,2,il2_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+1215,2,il2ra_human_gene,STAT5B,gene,protein,Homo sapiens YT natural-killer-like cell,1
+1216,2,il7ra_human_gene,MAFB,gene,protein,Homo sapiens mononuclear cell,1
+1217,2,il8_human_gene,CEBPB,gene,protein,Homo sapiens conjunctival epithelium,1
+1218,2,il8_human_gene,JUN,gene,protein,Homo sapiens conjunctival epithelium,1
+1219,2,IRF1,foxp3_human_gene,protein,gene,Homo sapiens T-cell,1
+1220,2,IRF4,caspa_human_gene,protein,gene,Homo sapiens UTMC2 monoclonal plasma cell,1
+1221,2,IRF5,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1222,2,irx3_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+1223,2,JMJD6,dmap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1224,2,JMJD6,kat5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1225,2,JUN,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1226,2,JUN,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1227,2,JUN,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+1228,2,JUN,stim1_human_gene,protein,gene,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+1229,2,JUN,tnf15_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+1230,2,JUN,x3cl1_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1231,2,jun_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+1232,2,JUNB,ccr4_human_gene,protein,gene,Homo sapiens adult T-cell lymphoma cell,1
+1233,2,JUND,sox4_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1234,2,JUND,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+1235,2,KAT2B,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+1236,2,kat5_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1237,2,KAT6A,hoxa5_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1238,2,KAT6A,hoxa5_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+1239,2,KAT6A,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1240,2,KDM2B,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1241,2,kdm3a_human_gene,EP300,gene,protein,Homo sapiens 22rv1 cell,1
+1242,2,klf4_human_gene,SPI1,gene,protein,Homo sapiens,1
+1243,2,KLF6,il8_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1244,2,klk3_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1245,2,klk3_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1246,2,KMT2A,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1247,2,KMT2A,msx2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1248,2,KSR1,cdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1249,2,lef1_human_gene,CTNNB1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+1250,2,lef1_human_gene,CTNNB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1251,2,lef1_human_gene,TCF7L2,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+1252,2,lef1_human_gene,TCF7L2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1253,2,leg1_human_gene,P19838-PRO_0000030311,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1254,2,LEO1,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1255,2,lyam2_mouse_gene,RELA,gene,protein,Mus musculus embryonic fibroblasts,1
+1256,2,mdm2_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1257,2,mdm2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-DZ neuroblastoma cell,1
+1258,2,MED1,podxl_human_gene,protein,gene,Homo sapiens HGEC glomerular endothelial cell,1
+1259,2,MED26,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1260,2,MED26,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1261,2,mlf2_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1262,2,mmp3_human_gene,STAT3,gene,protein,Homo sapiens brain microvascular endothelium,1
+1263,2,mmp9_human_gene,MAFB,gene,protein,Homo sapiens mononuclear cell,1
+1264,2,mmp9_human_gene,RELA,gene,protein,Homo sapiens U251 glioma cell,1
+1265,2,msx2_human_gene,PPIE,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1266,2,msx2_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1267,2,MTDH,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+1268,2,MYC,cdk4_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+1269,2,MYC,hes1_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+1270,2,myc_human_gene,AFF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1271,2,myc_human_gene,ELL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1272,2,myc_human_gene,FOXM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1273,2,myc_human_gene,MLLT3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1274,2,myc_human_gene,MYB,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1275,2,myc_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1276,2,MYCN,apex1_mouse_gene,protein,gene,Mouse Neuroblastoma,1
+1277,2,MYCN,apr_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+1278,2,MYCN,apr_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+1279,2,MYCN,mdm2_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+1280,2,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+1281,2,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+1282,2,mycn_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1283,2,Ncor1,pdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1284,2,NCOR1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1285,2,NCOR2,abcbb_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+1286,2,necd_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1287,2,necd_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+1288,2,NFATC1,icam1_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+1289,2,NFATC1,nkx23_human_gene,protein,gene,Homo sapiens B cell,1
+1290,2,NFIX,chi3l1_human_gene,protein,gene,Homo sapiens U373 glioblastoma astrocytoma cell,1
+1291,2,NFKBIA,hbx5_human_gene,protein,gene,Homo sapiens keratinocyte,1
+1292,2,NFKBIA,hxb2_human_gene,protein,gene,Homo sapiens keratinocyte,1
+1293,2,NFKBIZ,il6_human_gene,protein,gene,Homo sapiens decidua,1
+1294,2,notc1_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+1295,2,nox5_human_gene,STAT3,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1296,2,nr0b1_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1297,2,nr0b1_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1298,2,NR0B2,abcbb_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+1299,2,NR3C1,il10_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1300,2,NR3C1,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1301,2,NR3C1,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1302,2,NR4A1,ccnd2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1303,2,nr4a2_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1304,2,nucl_human_gene,MYC,gene,protein,Homo sapiens P493-6 B-cell,1
+1305,2,nucl_human_gene,SIN3B,gene,protein,Homo sapiens P493-6 B-cell,1
+1306,2,P19838-PRO_0000030311,bambi_human_gene,protein,gene,Homo sapiens hepatic stellate cell,1
+1307,2,P19838-PRO_0000030311,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1308,2,P19838-PRO_0000030311,tnf15_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+1309,2,pa24a_human_gene,EP300,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+1310,2,pa24a_human_gene,FOS,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+1311,2,PARP1,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+1312,2,PARP1,klk3_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1313,2,PARP1,pla1a_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1314,2,PARP1,tmps2_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1315,2,PCGF1,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1316,2,pckcg_human_gene,ZNF746,gene,protein,Homo sapiens SH-SY5Y cell,1
+1317,2,pdk4_human_gene,ESRRA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1318,2,pdk4_human_gene,PPARGC1A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1319,2,pe2r4_human_gene,SP1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1320,2,pla1a_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1321,2,pla1a_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1322,2,pla1a_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1323,2,PML-RAR,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1324,2,PML-RAR,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1325,2,PML-RAR,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1326,2,PML-RAR,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1327,2,PML-RAR,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1328,2,PML-RAR,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1329,2,PML-RAR,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1330,2,podxl_human_gene,H4C16,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+1331,2,podxl_human_gene,VDR,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+1332,2,POLR2A,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1333,2,POLR2A,ccna2_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1334,2,POLR2A,g3p_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1335,2,polr2k_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1336,2,POU5F1,lfty1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1337,2,POU5F1,po5f1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1338,2,POU5F1,sox17_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1339,2,PPIE,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1340,2,PRDM1,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1341,2,prdm1_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+1342,2,prdm1_human_gene,BCOR,gene,protein,Homo sapiens B cell,1
+1343,2,prgc1_human_gene,ZNF746,gene,protein,Homo sapiens brain,1
+1344,2,Q00653-PRO_0000030322,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1345,2,Q03164-PRO_0000390949,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1346,2,rarb_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+1347,2,RB1,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1348,2,RB1,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1349,2,RB1,tp73_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1350,2,REL,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1351,2,RELA,ccnd1_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+1352,2,RELA,cxcl2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1353,2,RELA,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+1354,2,RELA,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1355,2,RELA,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+1356,2,RELA,nod2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1357,2,RELA,stim1_human_gene,protein,gene,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+1358,2,RELA,vegfa_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+1359,2,rl3_human_gene,SIRT6,gene,protein,Homo sapiens H1 embryonic stem cell,1
+1360,2,RNF2,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1361,2,rnls_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1362,2,rnls_human_gene,STAT3,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1363,2,RORA,st2a1_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+1364,2,RORC,st2a1_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+1365,2,rpl22_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1366,2,RPRD1B,ccnd1_human_gene,protein,gene,Homo sapiens colonic cancer tissue,1
+1367,2,rs15a_human_gene,SIRT6,gene,protein,Homo sapiens H1 embryonic stem cell,1
+1368,2,runx1_human_gene,CDC73,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1369,2,runx1_human_gene,CDK9,gene,protein,Homo sapiens peripheral blood mononuclear cell,1
+1370,2,RXRA,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+1371,2,RXRA,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1372,2,RXRA,pld1_human_gene,protein,gene,Homo sapiens HaCaT keratinocyte cell,1
+1373,2,RXRA,rarb_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1374,2,s5a1_human_gene,MYC,gene,protein,Homo sapiens P493-6 B-cell,1
+1375,2,s5a1_human_gene,SIN3B,gene,protein,Homo sapiens P493-6 B-cell,1
+1376,2,SIN3B,cdk4_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+1377,2,SIN3B,hes1_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+1378,2,SIRT1,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1379,2,SIRT1,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1380,2,SIRT1,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1381,2,SIRT6,rl23_human_gene,protein,gene,Homo sapiens H1 embryonic stem cell,1
+1382,2,SIRT6,rl6_huma_gene,protein,gene,Homo sapiens H1 embryonic stem cell,1
+1383,2,SMAD3,lfty1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1384,2,SMAD3,po5f1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1385,2,SMAD3,zeb2_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+1386,2,SMAD4,nkx25_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1387,2,SMAD4,tbx6_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1388,2,SMARCA2,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+1389,2,SNAI1,fos_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+1390,2,sox17_human_gene,POU5F1,gene,protein,Homo sapiens ES embryonic stem cell,1
+1391,2,sox17_human_gene,POU5F1,gene,protein,Homo sapiens IPS induced pluripotent stem cell,1
+1392,2,SOX2,jag1_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1393,2,SOX2,mycn_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1394,2,sox2_human_gene,SMARCC1,gene,protein,Homo sapiens diploid fibroblast,1
+1395,2,sox2_human_gene,SS18,gene,protein,Homo sapiens diploid fibroblast,1
+1396,2,sox4_human_gene,JUND,gene,protein,Homo sapiens ST1 adult T cell lymphoma cell,1
+1397,2,SP1,ccng2_human_gene,protein,gene,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+1398,2,SP1,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+1399,2,SP1,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1400,2,Sp3,prkra_human_gene,protein,gene,In vitro,1
+1401,2,SP6,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1402,2,SPI1,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1403,2,SPI1,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1404,2,SPI1,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1405,2,SPI1,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1406,2,SPI1,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1407,2,SPI1,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1408,2,SPI1,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+1409,2,spi1_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+1410,2,SYT-SSX1,sox2_human_gene,protein,gene,Homo sapiens diploid fibroblast,1
+1411,2,st2a1_human_gene,NR1I3,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1412,2,star_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1413,2,star_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1414,2,STAT1,egln3_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+1415,2,STAT1,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1416,2,STAT1,x3cl1_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1417,2,STAT3,chi3l1_human_gene,protein,gene,Homo sapiens U373 glioblastoma astrocytoma cell,1
+1418,2,STAT3,il10_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1419,2,STAT3,mafb_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+1420,2,Stat3,mmp3_human_gene,protein,gene,Homo sapiens brain microvascular endothelium,1
+1421,2,STAT5B,fosl2_human_gene,protein,gene,Homo sapiens T-lymphoblast,1
+1422,2,stim1_human_gene,FOS,gene,protein,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+1423,2,SUZ12,cdkn1b_human_gene,protein,gene,Homo sapines SU-DHL-6 large cell lymphoma cell,1
+1424,2,taf12_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1425,2,TBP,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1426,2,TCF7L2,axin2_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+1427,2,tgif1_human_gene,CTNNB1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+1428,2,tgif1_human_gene,TCF7L2,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+1429,2,tmps2_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1430,2,tmps2_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1431,2,tnfa_human_gene,IRF5,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+1432,2,tnfa_human_gene,POLR2A,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+1433,2,TOP2B,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+1434,2,TP73,hist1h2bj_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1435,2,tp73_human_gene,POLR2A,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1436,2,TRIM33,runx1_human_gene,protein,gene,Homo sapiens peripheral blood mononuclear cell,1
+1437,2,TWIST1,fosl1_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+1438,2,UBN1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1439,2,UBN1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1440,2,VDR,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+1441,2,VDR,pld1_human_gene,protein,gene,Homo sapiens HaCaT keratinocyte cell,1
+1442,2,x3cl1_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1443,2,x3cl1_human_gene,STAT3,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1444,2,XRCC5,fkbp5_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1445,2,YAP1,1433s_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+1446,2,ZC3H18,brca2_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1447,2,ZC3H18,g3p_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1448,2,ZC3H18,i3l3r6_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1449,2,ZC3H18,kras_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1450,2,ZC3H18,psmd3_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1451,2,ZC3H18,rnu12_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1452,2,ZC3H18,rt15_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1453,2,ZC3H18,ru2b_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1454,2,ZC3H18,znhi3_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+1455,2,ZNF148,rnls_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1456,2,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
+1457,2,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens brain,1
+1458,2,ZNF746,pckcg_human_gene,protein,gene,Homo sapiens brain,1
+1459,2,ZNF746,prgc1_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
+1460,3,cdkn1a_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+1461,3,cdkn1a_human_gene,TP53,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1462,3,TP53,cdkn1a_human_gene,protein,gene,In vitro,1
+1463,3,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+1464,3,TP53,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+1465,3,AR,klk3_human_gene,protein,gene,Homo sapiens prostate tissue,1
+1466,3,RELA,ikba_human_gene,protein,gene,In vitro,1
+1467,3,RELA,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+1468,3,RELA,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1469,3,il8_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1470,3,il8_human_gene,RELA,gene,protein,Homo sapiens H4 neurogioma cell,1
+1471,3,il8_human_gene,RELA,gene,protein,Homo sapiens Chang liver cell,1
+1472,3,il8_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1473,3,RELA,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+1474,3,RELA,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1475,3,RELA,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+1476,3,GCM1,htra4_human_gene,protein,gene,In vitro,1
+1477,3,GCM1,htra4_human_gene,protein,gene,In vitro,1
+1478,3,GCM1,htra4_human_gene,protein,gene,In vitro,1
+1479,3,htra4_human_gene,GCM1,gene,protein,In vitro,1
+1480,3,htra4_human_gene,GCM1,gene,protein,In vitro,1
+1481,3,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+1482,3,foxp3_human_gene,H4C16,gene,protein,Homo sapiens regulatory T-lymphocyte,1
+1483,3,foxp3_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+1484,3,foxp3_human_gene,H4C16,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1485,3,HIF1A,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1486,3,HIF1A,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1487,3,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1488,3,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1489,3,hoxa9_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1490,3,vegfa_human_gene,HIF1A,gene,protein,Homo sapiens SMMC7721 hepatoma cell,1
+1491,3,mmp1_human_gene,JUN,gene,protein,Homo sapiens diploid fibroblast,1
+1492,3,mmp1_human_gene,JUN,gene,protein,In vitro,1
+1493,3,mmp1_human_gene,JUN,gene,protein,Homo sapiens diploid fibroblast,1
+1494,3,irf1_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+1495,3,irf1_human_gene,STAT1,gene,protein,In vitro,1
+1496,3,mdm2_human_gene,TP53,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1497,3,RELA,birc3_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+1498,3,RELA,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1499,3,bim_human_gene,FOXO3,gene,protein,In vitro,1
+1500,3,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+1501,3,htra4_human_gene,htra4_human_gene,gene,gene,In vitro,1
+1502,3,PARP1,brca2_human_gene,protein,gene,In vitro,1
+1503,3,PARP1,brca2_human_gene,protein,gene,In vitro,1
+1504,3,PARP1,brca2_human_gene,protein,gene,In vitro,1
+1505,3,fkbp5_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1506,3,klk3_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1507,3,POU5F1,sox2_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+1508,3,POU5F1,sox2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+1509,3,RFX5,dra_human_gene,protein,gene,In vitro,1
+1510,3,RFX5,dra_human_gene,protein,gene,In vitro,1
+1511,3,sox2_human_gene,POU5F1,gene,protein,Homo sapiens ES embryonic stem cell,1
+1512,3,tmps2_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1513,3,axin2_human_gene,CTNNB1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+1514,3,ccl2_human_gene,RELA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1515,3,cdkn1a_human_gene,EP300,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1516,3,cdkn1a_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1517,3,cdkn1a_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1518,3,CREBBP,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+1519,3,CREM,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+1520,3,CREM,il2_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1521,3,crem_human_gene,SP1,gene,protein,Homo sapiens T-cell,1
+1522,3,crem_human_gene,SP1,gene,protein,Homo sapiens T-cell,1
+1523,3,E2F1,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1524,3,E2F1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1525,3,E2F1,ccna2_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+1526,3,E2F1,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1527,3,fos_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+1528,3,foxp3_human_gene,KLF10,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1529,3,HDAC1,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+1530,3,HDAC1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+1531,3,hoxa7_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1532,3,icam1_human_gene,RELA,gene,protein,Homo sapiens umbilical vein endotheliium,1
+1533,3,icam1_human_gene,RELA,gene,protein,Homo sapiens umbilical vein endotheliium,1
+1534,3,il2_human_gene,CREM,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1535,3,il2_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+1536,3,il2_human_gene,FOXP3,gene,protein,Homo sapiens T-cell,1
+1537,3,il2_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+1538,3,il2_human_gene,HDAC1,gene,protein,Homo sapiens T-cell,1
+1539,3,il2_human_gene,NFATC2,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1540,3,il2_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1541,3,il2_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1542,3,JUN,mmp9_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+1543,3,KLF10,foxp3_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+1544,3,mmp9_human_gene,JUN,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+1545,3,NFATC2,il2_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1546,3,NR5A1,star_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1547,3,PRKDC,klk3_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1548,3,PRKDC,pla1a_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+1549,3,RELA,birc2_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+1550,3,RELA,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1551,3,star_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1552,3,tmps2_human_gene,PRKDC,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+1553,3,tnfa_human_gene,RELA,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+1554,3,tp73_human_gene,E2F1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1555,3,cd44_human_gene,TP53,gene,protein,Homo sapiens mammary epithelium,1
+1556,3,HMGA1,il2ra_human_gene,protein,gene,In vitro,1
+1557,3,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+1558,3,il2ra_human_gene,HMGA1,gene,protein,Homo sapiens YT natural-killer-like cell,1
+1559,3,il2ra_human_gene,STAT5A,gene,protein,In vitro,1
+1560,3,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1561,3,N,pgh2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1562,3,N,pgh2_human_gene,protein,gene,In vitro,1
+1563,3,N,pgh2_human_gene,protein,gene,In vitro,1
+1564,3,pgh2_human_gene,N,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1565,3,POU5F1,nanog_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+1566,3,POU5F1,nanog_human_gene,protein,gene,In vitro,1
+1567,3,SP1,tf65_human_gene,protein,gene,In vitro,1
+1568,3,SP1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1569,3,STAT5A,il2ra_human_gene,protein,gene,Homo sapiens YT natural-killer-like cell,1
+1570,3,tf65_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1571,3,tf65_human_gene,ZBTB2,gene,protein,In vitro,1
+1572,3,TP53,cd44_human_gene,protein,gene,In vitro,1
+1573,3,ZBTB2,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1574,3,foxp3_human_gene,STAT1,gene,protein,Homo sapiens CD4+ T-cell,1
+1575,3,RELA,bcl10_human_gene,protein,gene,In vitro,1
+1576,3,STAT1,foxp3_human_gene,protein,gene,In vitro,1
+1577,3,3bhs2_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1578,3,3bhs2_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1579,3,3bhs2_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1580,3,3bhs2_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1581,3,andr_human_gene,FOXO3,gene,protein,In vitro,1
+1582,3,anf_rat_gene,CAMTA2,gene,protein,Rattus norvegicus heart,1
+1583,3,anf_rat_gene,CAMTA2,gene,protein,Chlorocebus aethiops COS-1 cells,1
+1584,3,anf_rat_gene,CAMTA2,gene,protein,In vitro,1
+1585,3,ASAH1,cp17a_human_gene,protein,gene,Homo sapiens H295R adrenocortical cell,1
+1586,3,cdkn1b_human_gene,FOXO3,gene,protein,In vitro,1
+1587,3,CEBPB,3bhs2_human_gene,protein,gene,Homo sapiens KGN ovarian granulosa cell,1
+1588,3,cp17a_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1589,3,cp17a_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1590,3,NR5A1,cp17a_human_gene,protein,gene,Homo sapiens H295R adrenocortical cell,1
+1591,3,bcl2_human_gene,P0C6X7-PRO_0000037311,gene,protein,In vitro,1
+1592,3,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+1593,3,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+1594,3,cdn1b_mouse_gene,FOXO3,gene,protein,In vitro,1
+1595,3,foxo3-myc_human,cdn1b_mouse_gene,stable complex,gene,In vitro,1
+1596,3,FOXO3,tnfl6_human_gene,protein,gene,In vitro,1
+1597,3,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+1598,3,tnfl6_human_gene,bim_human_gene,gene,gene,In vitro,1
+1599,3,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+1600,3,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+1601,3,tnfl6_human_gene,FOXO3,gene,protein,In vitro,1
+1602,3,tnfl6_human_gene,tnfl6_human_gene,gene,gene,In vitro,1
+1603,3,mir128-1 gene,JUN,gene,protein,Homo sapiens U-87 MG glioblastoma cell,1
+1604,3,ATF4,apoe_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1605,3,ccl5_human_gene,GATA1,gene,protein,In vitro,1
+1606,3,ccl5_human_gene,GATA2,gene,protein,In vitro,1
+1607,3,ccl5_human_gene,GATA3,gene,protein,In vitro,1
+1608,3,cd44_human_gene,LEF1,gene,protein,In vitro,1
+1609,3,cd44_human_gene,LEF1,gene,protein,In vitro,1
+1610,3,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+1611,3,cd44_human_gene,MLLT11,gene,protein,In vitro,1
+1612,3,co1a2_human_gene,SMAD2,gene,protein,In vitro,1
+1613,3,co1a2_human_gene,SP1,gene,protein,Homo sapiens diploid fibroblast,1
+1614,3,CREBBP,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1615,3,CRY1,dbp_mouse_gene,protein,gene,Mus musculus embryonic fibroblasts,1
+1616,3,CRY1,per2_mouse_gene,protein,gene,Mus musculus embryonic fibroblasts,1
+1617,3,dbloh_human_gene,E2F1,gene,protein,Homo sapiens bone marrow stroma,1
+1618,3,dbloh_human_gene,PAWR,gene,protein,Homo sapiens bone marrow stroma,1
+1619,3,ELK1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+1620,3,ELK1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+1621,3,EP300,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1622,3,FAM47E,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1623,3,FAM47E,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1624,3,FAM47E,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1625,3,FAM47E,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1626,3,fas_human_gene,CTBP2,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+1627,3,fas_human_gene,KDM1A,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+1628,3,fas_human_gene,ZBTB18,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+1629,3,fas_human_gene,ZNF217,gene,protein,Homo sapiens SNB-19 glioblastoma cell,1
+1630,3,FOXE1,pert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+1631,3,FOXE1,tert_human_gene,protein,gene,Homo sapiens thyroid gland,1
+1632,3,H4C16,invo_human_gene,protein,gene,Homo sapiens keratinocyte,1
+1633,3,HOXA9,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1634,3,HOXA9,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1635,3,icos_human_gene,ROCK2,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+1636,3,ifi27_human_gene,IRF1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1637,3,ikba_human_gene,MACROD1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1638,3,il6_human_gene,CEBPB,gene,protein,Homo sapiens 22rv1 cell,1
+1639,3,invo_human_gene,PRMT5,gene,protein,Homo sapiens keratinocyte,1
+1640,3,IRF1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1641,3,IRF1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1642,3,irf1_human_gene,STAT6,gene,protein,In vitro,1
+1643,3,IRF3,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1644,3,IRF4,ifi27_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1645,3,KDM1A,acaca_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1646,3,KDM1A,ldrl_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1647,3,KDM1A,lss_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1648,3,KDM1A,sqle_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1649,3,KDM1A,srbp1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1650,3,klf9_human_gene,GTF2H2,gene,protein,Homo sapiens diploid fibroblast,1
+1651,3,NFATC3,myocardin,protein,gene,Homo sapiens cardiomyocyte,1
+1652,3,NFIL3,il3_human_gene,protein,gene,In vitro,1
+1653,3,NFKB1,ikba_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1654,3,NR5A2,cp7a1_human_gene,protein,gene,In vitro,1
+1655,3,PBX2,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1656,3,PBX2,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1657,3,PKNOX1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1658,3,PKNOX1,ccl2_human_gene,protein,gene,Homo sapiens U-87 MG glioblastoma cell,1
+1659,3,POU5F1,ga45g_human_gene,protein,gene,In vitro,1
+1660,3,POU5F1,lfty2_human_gene,protein,gene,Homo sapiens NCCIT germ cell line.,1
+1661,3,POU5F1,ubp44_human_gene,protein,gene,In vitro,1
+1662,3,prdm1_human_gene,ROCK2,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+1663,3,prkra_human_gene,Sp1,gene,protein,In vitro,1
+1664,3,PRMT5,ccnd1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1665,3,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1666,3,PRMT5,dclk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1667,3,PRMT5,ptx3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1668,3,PRMT5,pyr1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1669,3,PRMT5,tnap3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1670,3,ROCK2,a0a087wzx0_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1671,3,ROCK2,c9jl16_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1672,3,ROCK2,cxcr5_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1673,3,ROCK2,f8wb75_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1674,3,ROCK2,g3v266_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1675,3,ROCK2,irf4_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1676,3,ROCK2,maf_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1677,3,ROCK2,pdcd1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1678,3,ROCK2,rorg_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1679,3,ROCK2,stat3_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1680,3,ROCK2,tob1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1681,3,ROCK2,txlna_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1682,3,RUNX1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+1683,3,STAT1,ki2l4_human_gene,protein,gene,Homo sapiens natural killer,1
+1684,3,STAT3,a0a087wzx0_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1685,3,STAT3,c9jl16_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1686,3,STAT3,cxcr5_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1687,3,STAT3,f8wb75_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1688,3,STAT3,g3v266_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1689,3,STAT3,icos_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1690,3,STAT3,irf4_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1691,3,STAT3,maf_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1692,3,STAT3,pdcd1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1693,3,STAT3,prdm1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1694,3,STAT3,rorg_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1695,3,STAT3,tob1_human_gene,protein,gene,Homo sapiens peripheral blood CD4+ T cell,1
+1696,3,THAP1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1697,3,THAP1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1698,3,THAP1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1699,3,tor1a_human_gene,THAP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1700,3,TP53,casp1_human_gene,protein,gene,In vitro,1
+1701,3,txlna_human_gene,STAT3,gene,protein,Homo sapiens peripheral blood CD4+ T cell,1
+1702,3,txnip_human_gene,FOXO3,gene,protein,Homo sapiens 2BS embryonic lung diploid fibroblast cell,1
+1703,3,WDR77,invo_human_gene,protein,gene,Homo sapiens keratinocyte,1
+1704,3,ZEB2,meox2_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+1705,3,ZNF217,acaca_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1706,3,ZNF217,cyp51a1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1707,3,ZNF217,gsk3a_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1708,3,ZNF217,inig1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1709,3,ZNF217,ldrl_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1710,3,ZNF217,lss_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1711,3,ZNF217,sqle_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1712,3,ZNF217,srbp1_human_gene,protein,gene,Homo sapiens SNB-19 glioblastoma cell,1
+1713,3,ccl4_human_gene-1,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1714,3,ccl4_human_gene-1,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1715,3,tnfa_human_gene-1,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1716,3,ccl4_human_gene-1,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1717,3,tnfa_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1718,3,ccl4_human_gene-1,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1719,3,cc4l_human_gene,ATF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1720,3,cc4l_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1721,3,cc4l_human_gene,EBF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1722,3,cc4l_human_gene,GCM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1723,3,cc4l_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1724,3,cc4l_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1725,3,cc4l_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1726,3,cc4l_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1727,3,cc4l_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1728,3,cc4l_human_gene,ZBTB10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1729,3,cc4l_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1730,3,ccl13_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1731,3,ccl13_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1732,3,ccl13_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1733,3,ccl15_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1734,3,ccl15_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1735,3,ccl18_human_gene,BHLHE22,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1736,3,ccl18_human_gene,USF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1737,3,ccl1_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1738,3,ccl1_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1739,3,ccl20_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1740,3,ccl20_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1741,3,ccl21_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1742,3,ccl21_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1743,3,ccl23_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1744,3,ccl23_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1745,3,ccl23_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1746,3,ccl24_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1747,3,ccl24_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1748,3,ccl24_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1749,3,ccl24_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1750,3,ccl27_human_gene,KLF17,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1751,3,ccl27_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1752,3,ccl27_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1753,3,ccl27_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1754,3,ccl27_human_gene,TFAP2B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1755,3,ccl27_human_gene,TFAP2E,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1756,3,ccl27_human_gene,ZNF18,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1757,3,ccl28_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1758,3,ccl28_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1759,3,ccl28_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1760,3,ccl28_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1761,3,ccl28_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1762,3,ccl2_human_gene,ELF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1763,3,ccl2_human_gene,ETV1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1764,3,ccl2_human_gene,ETV7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1765,3,ccl2_human_gene,GABPA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1766,3,ccl2_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1767,3,ccl2_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1768,3,ccl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1769,3,ccl3_human_gene,TGIF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1770,3,cl3l1_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1771,3,csf2_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1772,3,csf2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1773,3,csf2_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1774,3,cxcl17_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1775,3,cxcl17_human_gene,ZIC1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1776,3,cxcl17_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1777,3,cxcl2_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1778,3,cxcl3_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1779,3,cxcl3_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1780,3,cxcl3_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1781,3,cxcl3_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1782,3,cxcl3_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1783,3,cxcl5_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1784,3,cxcl5_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1785,3,cxcl5_human_gene,ZNF281,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1786,3,cxcl9_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1787,3,cxcl9_human_gene,NFYC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1788,3,cxcl9_human_gene,RBPJ,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1789,3,cxl10_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1790,3,cxl10_human_gene,SOX14,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1791,3,ifn10_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1792,3,ifn10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1793,3,ifn10_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1794,3,ifn10_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1795,3,ifn10_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1796,3,ifn16_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1797,3,ifn16_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1798,3,ifn16_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1799,3,ifn17_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1800,3,ifn21_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1801,3,ifn21_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1802,3,ifna2_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1803,3,ifna2_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1804,3,ifna4_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1805,3,ifna4_human_gene,POU3F1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1806,3,ifna6_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1807,3,ifna7_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1808,3,ifna7_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1809,3,ifna8_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1810,3,ifna8_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1811,3,ifng_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1812,3,ifnl3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1813,3,ifnl3_human_gene,ZIC3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1814,3,il10_human_gene,MAFB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1815,3,il10_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1816,3,il10_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1817,3,il10_human_gene,NRL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1818,3,il10_human_gene,PLAGL1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1819,3,il10_human_gene,PLAGL2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1820,3,il10_human_gene,ZNF710,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1821,3,il12b_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1822,3,il12b_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1823,3,il16_human_gene,MLX,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1824,3,il16_human_gene,TCF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1825,3,il17_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1826,3,il17_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1827,3,il17f_human_gene,PPARA,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1828,3,il17f_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1829,3,il17f_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1830,3,il18_human_gene,SPIB,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1831,3,il18_human_gene,SPIC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1832,3,il1ra_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1833,3,il1ra_human_gene,SP4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1834,3,il1ra_human_gene,WT1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1835,3,il20_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1836,3,il20_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1837,3,il22_human_gene,MAFF,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1838,3,il22_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1839,3,il22_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1840,3,il25_human_gene,LCOR,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1841,3,il25_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1842,3,il25_human_gene,POU2F2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1843,3,il25_human_gene,PPARG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1844,3,il25_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1845,3,il26_human_gene,RORC,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1846,3,il31_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1847,3,il31_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1848,3,il31_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1849,3,il32_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1850,3,il32_human_gene,HNF4A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1851,3,il32_human_gene,KLF12,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1852,3,il32_human_gene,KLF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1853,3,il32_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1854,3,il32_human_gene,NR1I2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1855,3,il32_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1856,3,il32_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1857,3,il32_human_gene,ZBTB7A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1858,3,il32_human_gene,ZBTB7B,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1859,3,il36b_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1860,3,il3_human_gene,EBF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1861,3,il3_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1862,3,il7_human_gene,KLF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1863,3,il7_human_gene,NR2F6,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1864,3,il8_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1865,3,il8_human_gene,REL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1866,3,il8_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1867,3,kitlg_human_gene,KLF3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1868,3,kitlg_human_gene,TFAP2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1869,3,kitlg_human_gene,TFAP2C,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1870,3,tn13b_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1871,3,tnf10_human_gene,IRF2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1872,3,tnf10_human_gene,KLF15,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1873,3,tnf10_human_gene,KLF7,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1874,3,tnf18_human_gene,MAFG,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1875,3,tnfsf8_human_gene,KLF10,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1876,3,erbb2_human_gene-1,Hsp83,gene,protein,Drosophila melanogaster Schneider 2 late embryo cell,1
+1877,3,NKX2-1,srbp2_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+1878,3,NKX2-1,tm245_human_gene,protein,gene,Homo sapiens NCI-H441 distal lung epithelial cell,1
+1879,3,mir-122_human_gene,HNF4A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1880,3,mir-122_human_gene,POLR2A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1881,3,H1-4,atoh1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1882,3,H1-4,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1883,3,H1-4,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1884,3,H1-4,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1885,3,mir-494,SUZ12,gene,protein,Homo sapiens Ramos Burkitt's lymphoma cell,1
+1886,3,abcbb_human_gene,CARM1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1887,3,abcbb_human_gene,NCOA1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1888,3,abcbb_human_gene,NCOA2,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1889,3,abcbb_human_gene,NCOR1,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1890,3,abcbb_human_gene,NR1H4,gene,protein,Homo sapiens liver,1
+1891,3,abcbb_human_gene,PPARGC1A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+1892,3,abcbb_human_gene,PPARGC1A,gene,protein,Homo sapiens liver,1
+1893,3,acthr_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1894,3,acthr_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1895,3,AFF4,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1896,3,APEX1,mdr1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1897,3,ASF1A,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1898,3,ASXL1,clp1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1899,3,ASXL1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1900,3,ASXL1,polr2k_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1901,3,ASXL1,rpl22_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1902,3,ASXL1,taf12_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1903,3,ATF2,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+1904,3,ATF3,stat3_human_gene,protein,gene,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+1905,3,ATF4,stat3_human_gene,protein,gene,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+1906,3,axin2_human_gene,FOXM1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+1907,3,BACH2,il2_human_gene,protein,gene,Homo sapiens umbilical cord blood CD4+ T cell,1
+1908,3,bambi_human_gene,HDAC1,gene,protein,Homo sapiens LX-2 hepatic stellate cell,1
+1909,3,bambi_human_gene,P19838-PRO_0000030311,gene,protein,Homo sapiens LX-2 hepatic stellate cell,1
+1910,3,bax_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1911,3,BCL6,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1912,3,Bcl6,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1913,3,Bcl6,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1914,3,BCL6,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1915,3,BCL6,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1916,3,BCOR,ari3a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1917,3,BCOR,cdkn1a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1918,3,BCOR,cdkn1b_human_gene,protein,gene,Homo sapiens B cell,1
+1919,3,BCOR,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1920,3,BCOR,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1921,3,BCOR,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+1922,3,BCOR,irf4_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1923,3,BCOR,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1924,3,birc3_human_gene,CCDC22,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1925,3,bmi1_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+1926,3,bmi1_human_gene,BCOR,gene,protein,Homo sapiens B cell,1
+1927,3,bmpr1b_human_gene,EZH2,gene,protein,Homo sapiens glioblastoma,1
+1928,3,BPTF,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1929,3,brca1_human_gene,GABPA,gene,protein,Homo sapiens IOSE ovarian epithelial cell,1
+1930,3,brca1_human_gene,JUN,gene,protein,Homo sapiens IOSE ovarian epithelial cell,1
+1931,3,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1932,3,BRD1,diexf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1933,3,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1934,3,BRD1,psb2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1935,3,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1936,3,BRD1,wdr7_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1937,3,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1938,3,BRD1,zc3hf_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1939,3,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1940,3,BRD1,zn226_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1941,3,BRD4,h1bp3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1942,3,BRD4,mlf2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1943,3,BRD7,bbc3_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1944,3,BRD7,cdkn1a_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1945,3,BRD7,mdm2_human_gene,protein,gene,Homo sapiens BJ foreskin fibroblast cell,1
+1946,3,caspa_human_gene,IRF4,gene,protein,Homo sapiens KMS12 myeloma cell,1
+1947,3,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1948,3,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1949,3,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1950,3,CBX4,vegfa_human_gene,protein,gene,Homo sapiens SMMC7721 hepatoma cell,1
+1951,3,CBX8,ari3a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1952,3,CBX8,ari3b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1953,3,CBX8,cdkn1a_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1954,3,CBX8,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1955,3,CBX8,irf4_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1956,3,CBX8,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1957,3,ccna2_human_gene,H4C16,gene,protein,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1958,3,ccna2_human_gene,HDAC1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1959,3,ccna2_human_gene,RB1,gene,protein,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+1960,3,ccna2_human_gene,RB1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+1961,3,ccnd2_human_gene,NR4A1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+1962,3,ccng2_human_gene,HDAC2,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+1963,3,ccng2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+1964,3,ccr4_human_gene,JUND,gene,protein,Homo sapiens adult T-cell lymphoma cell,1
+1965,3,cd69_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+1966,3,cd8b_human_gene,CREM,gene,protein,Homo sapiens CD8+ T lymphocyte,1
+1967,3,CDK9,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1968,3,CDK9,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1969,3,cdkn1a_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+1970,3,cdkn1a_human_gene,FOXO3,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1971,3,cdkn1a_human_gene,MYC,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1972,3,cdkn1a_human_gene,SMAD4,gene,protein,Homo sapiens HaCaT keratinocyte cell,1
+1973,3,cdkn1b_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+1974,3,cdkn1b_human_gene,BCL6,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1975,3,cdkn1b_human_gene,BCOR,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+1976,3,CEBPA,fto_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1977,3,CEBPB,ccl3_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+1978,3,CEBPB,ccl4_human_gene,protein,gene,Homo sapiens T/C-28a2 chondrocyte cell,1
+1979,3,CEBPB,cp11a_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1980,3,CEBPB,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1981,3,CEBPB,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1982,3,CEBPB,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+1983,3,CEBPB,il8_human_gene,protein,gene,Homo sapiens conjunctival epithelium,1
+1984,3,cflar_human_gene,IRF4,gene,protein,Homo sapiens KMS12 myeloma cell,1
+1985,3,cflar_human_gene,IRF4,gene,protein,Homo sapiens UTMC2 monoclonal plasma cell,1
+1986,3,cflar_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+1987,3,CHD4,kcd16_mouse_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+1988,3,CHD7,gli2_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1989,3,CHD7,jag1_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+1990,3,clp1_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+1991,3,COMMD1,birc3_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+1992,3,cp11a_human_gene,CEBPB,gene,protein,Homo sapiens KGN ovarian granulosa cell,1
+1993,3,cp11a_human_gene,NR5A1,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+1994,3,cp17a_human_gene,H4C16,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1995,3,cp17a_human_gene,NCOA1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1996,3,cp17a_human_gene,POLR2A,gene,protein,Homo sapiens H295R adrenocortical cell,1
+1997,3,cp2a6_human_gene,H4C16,gene,protein,Homo sapiens hepatocyte,1
+1998,3,cp2a6_human_gene,HNF4A,gene,protein,Homo sapiens hepatocyte,1
+1999,3,CREB1,fos_mouse_gene,protein,gene,Mouse myeloid progenitor cells,1
+2000,3,CREBBP,vegfa_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2001,3,Crem,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+2002,3,CREM,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+2003,3,CREM,il17f_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+2004,3,CREM,il17f_human_gene,protein,gene,Homo sapiens T-cell,1
+2005,3,crum3_human_gene,FOS,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+2006,3,cxcl2_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2007,3,dmap1_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2008,3,DNMT1,bmpr1b_human_gene,protein,gene,Homo sapiens glioblastoma,1
+2009,3,DNMT3A,il17_human_gene,protein,gene,Homo sapiens T-cell,1
+2010,3,DNMT3A,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+2011,3,DPF3,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+2012,3,DPF3,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+2013,3,e1a_ade05,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2014,3,e1a_ade05,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2015,3,EP300,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2016,3,EP300,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+2017,3,EP300,vegfa_human_gene,protein,gene,Homo sapiens 22rv1 cell,1
+2018,3,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2019,3,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2020,3,EZH2,cdkn1b_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2021,3,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2022,3,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2023,3,EZH2,prdm1_human_gene,protein,gene,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2024,3,fas_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+2025,3,fas_human_gene,PRKDC,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+2026,3,fas_human_gene,USF1,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+2027,3,fas_human_gene,XRCC5,gene,protein,Homo sapiens M059JK glioblastoma cell,1
+2028,3,fkbp5_human_gene,PARP1,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2029,3,fkbp5_human_gene,PRKDC,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2030,3,fkbp5_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2031,3,FOS,cadh1_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+2032,3,fos_human_gene,SMARCB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2033,3,fos_human_gene,TWIST1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+2034,3,fos_mouse_gene,MEIS1,gene,protein,Mouse myeloid progenitor cells,1
+2035,3,fosl1_human_gene,SNAI1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+2036,3,FOSL2,brca1_human_gene,protein,gene,Homo sapiens IOSE ovarian epithelial cell,1
+2037,3,FOSL2,ccr4_human_gene,protein,gene,Homo sapiens adult T-cell lymphoma cell,1
+2038,3,FOSL2,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+2039,3,fosl2_human_gene,STAT5A,gene,protein,Homo sapiens T-lymphoblast,1
+2040,3,FOXK1,mcm2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2041,3,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+2042,3,FOXM1,lef1_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2043,3,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+2044,3,FOXM1,lef1_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+2045,3,FOXM1,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2046,3,FOXO1,klf2_human_gene,protein,gene,Homo sapiens T-cell,1
+2047,3,FOXO3,gdf8_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+2048,3,FOXO3,tgfb1_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+2049,3,FOXP3,ctla4_mouse_gene,protein,gene,Mouse T cell,1
+2050,3,Foxp3,ifng_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2051,3,Foxp3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2052,3,FOXP3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2053,3,FOXP3,il2_human_gene,protein,gene,Homo sapiens T-cell,1
+2054,3,FOXP3,il2_mouse_gene,protein,gene,Mouse T cell,1
+2055,3,FOXP3,il2ra_mouse_gene,protein,gene,Mouse T cell,1
+2056,3,foxp3_human_gene,HDAC1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2057,3,foxp3_human_gene,KAT2B,gene,protein,Homo sapiens CD4+ T-cell,1
+2058,3,foxp3_human_gene,NFATC2,gene,protein,Homo sapiens CD4+ T-cell,1
+2059,3,foxp3_human_gene,SIN3A,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2060,3,foxp3_human_gene,STAT3,gene,protein,Homo sapiens CD4+ T-cell,1
+2061,3,fril_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+2062,3,g3p_human_gene,POLR2A,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+2063,3,gli2_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2064,3,gli3_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2065,3,gli3_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2066,3,h1bp3_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2067,3,H4C16,atoh1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2068,3,H4C16,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+2069,3,H4C16,fos_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2070,3,H4C16,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2071,3,H4C16,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2072,3,H4C16,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2073,3,H4C16,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2074,3,H4C16,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2075,3,H4C16,sphk1_human_gene,protein,gene,Homo sapiens endothelium,1
+2076,3,H4C16,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2077,3,H4C16,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2078,3,HCFC1,birc5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2079,3,HCFC1,rir1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2080,3,HCFC1,thap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2081,3,HCFC1,tor1a_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2082,3,hck_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+2083,3,hck_human_gene,RXRA,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+2084,3,HDAC1,bambi_human_gene,protein,gene,Homo sapiens hepatic stellate cell,1
+2085,3,HDAC1,fos_human_gene,protein,gene,Homo sapiens T-cell,1
+2086,3,HDAC1,il17_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+2087,3,HDAC1,il17_human_gene,protein,gene,Homo sapiens T-cell,1
+2088,3,hdac6_human_gene,ERG,gene,protein,Homo sapiens endothelium,1
+2089,3,hes6_human_gene,EP300,gene,protein,Homo sapiens 22rv1 cell,1
+2090,3,hist1h2bh_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2091,3,hist1h3c_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2092,3,hist1h4e_human_gene,TP73,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2093,3,hme1_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2094,3,hme1_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2095,3,hme2_human_gene,BPTF,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2096,3,hme2_human_gene,SMARCA1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2097,3,HNF4A,apoc3_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+2098,3,HNF4A,myc_human_gene,protein,gene,Homo sapiens gastric tissue,1
+2099,3,HNRNPK,cdkn1a_human_gene,protein,gene,Homo sapiens,1
+2100,3,hoxa5_human_gene,KMT2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2101,3,hoxa7_human_gene,KAT6A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2102,3,hoxa9_human_gene,CDC73,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2103,3,hoxa9_human_gene,PAF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2104,3,hoxa9_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2105,3,hoxa9_mouse_gene,KAT5,gene,protein,Mus musculus,1
+2106,3,hsp70_human_gene,AFF4,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2107,3,hsp70_human_gene,MED1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2108,3,hsp70_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2109,3,hsp70_human_gene,TBP,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2110,3,hxa10_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+2111,3,hxd3_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+2112,3,ifng_human_gene,FOXP3,gene,protein,Homo sapiens CD4+ T-cell,1
+2113,3,ifng_human_gene,RUNX1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2114,3,ifng_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+2115,3,ifng_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+2116,3,ifnl1_human_gene,IRF1,gene,protein,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2117,3,ifnl1_human_gene,ZEB1,gene,protein,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2118,3,igfbp7_human_gene,JUN,gene,protein,Homo sapiens melanocyte,1
+2119,3,ikba_human_gene,KLF6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2120,3,il10_human_gene,PARP1,gene,protein,Homo sapiens mononuclear cell,1
+2121,3,il10_mouse_gene,SP1,gene,protein,mouse M15 cells,1
+2122,3,il17_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+2123,3,il2_human_gene,FOS,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2124,3,il2_human_gene,H4C16,gene,protein,Homo sapiens CD4+ T-cell,1
+2125,3,il2_human_gene,JUNB,gene,protein,Homo sapiens umbilical cord blood CD4+ T cell,1
+2126,3,il2_human_gene,RUNX1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2127,3,il2_human_gene,TRIM28,gene,protein,Homo sapiens CD4+ T-cell,1
+2128,3,il2_human_gene,ZFP90,gene,protein,Homo sapiens CD4+ T-cell,1
+2129,3,il2ra_human_gene,RELA,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2130,3,il2ra_human_gene,STAT5B,gene,protein,Homo sapiens YT natural-killer-like cell,1
+2131,3,il7ra_human_gene,MAFB,gene,protein,Homo sapiens mononuclear cell,1
+2132,3,il8_human_gene,CEBPB,gene,protein,Homo sapiens conjunctival epithelium,1
+2133,3,il8_human_gene,JUN,gene,protein,Homo sapiens conjunctival epithelium,1
+2134,3,il8_human_gene,RPS3,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2135,3,IRF1,foxp3_human_gene,protein,gene,Homo sapiens T-cell,1
+2136,3,IRF4,caspa_human_gene,protein,gene,Homo sapiens KMS12 myeloma cell,1
+2137,3,IRF4,caspa_human_gene,protein,gene,Homo sapiens UTMC2 monoclonal plasma cell,1
+2138,3,IRF4,cflar_human_gene,protein,gene,Homo sapiens KMS12 myeloma cell,1
+2139,3,IRF5,tnfa_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2140,3,irx3_human_gene,NFKBIA,gene,protein,Homo sapiens keratinocyte,1
+2141,3,JMJD6,dmap1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2142,3,JMJD6,kat5_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2143,3,JUN,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2144,3,JUN,il8_human_gene,protein,gene,Homo sapiens Chang liver cell,1
+2145,3,JUN,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+2146,3,JUN,pa24a_human_gene,protein,gene,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+2147,3,JUN,stim1_human_gene,protein,gene,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+2148,3,JUN,tnf15_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+2149,3,JUN,x3cl1_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+2150,3,jun_human_gene,MYC,gene,protein,Homo sapiens A172 glioblastoma cell,1
+2151,3,JUNB,ccr4_human_gene,protein,gene,Homo sapiens adult T-cell lymphoma cell,1
+2152,3,JUND,sox4_human_gene,protein,gene,Homo sapiens CD4+ T-cell,1
+2153,3,JUND,sox4_human_gene,protein,gene,Homo sapiens HuT 102 peripheral blood cutaneous T-cell lymphoma cell,1
+2154,3,KAT2B,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+2155,3,kat5_human_gene,BRD4,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2156,3,KAT6A,hoxa5_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2157,3,KAT6A,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2158,3,kdm3a_human_gene,EP300,gene,protein,Homo sapiens 22rv1 cell,1
+2159,3,Klf2,s1pr1_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2160,3,klf4_human_gene,SPI1,gene,protein,Homo sapiens,1
+2161,3,KLF6,il8_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2162,3,klk3_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2163,3,klk3_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2164,3,KMT2A,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2165,3,KMT2A,msx2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2166,3,KSR1,cdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2167,3,lef1_human_gene,CTNNB1,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+2168,3,lef1_human_gene,CTNNB1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2169,3,lef1_human_gene,TCF7L2,gene,protein,Homo sapiens MD11 glioblastoma cell,1
+2170,3,lef1_human_gene,TCF7L2,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2171,3,LEO1,hoxa9_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2172,3,lyam2_mouse_gene,RELA,gene,protein,Mus musculus embryonic fibroblasts,1
+2173,3,mdm2_human_gene,BRD7,gene,protein,Homo sapiens BJ foreskin fibroblast cell,1
+2174,3,mdm2_human_gene,MYCN,gene,protein,Homo sapiens SK-N-DZ neuroblastoma cell,1
+2175,3,MED1,podxl_human_gene,protein,gene,Homo sapiens HGEC glomerular endothelial cell,1
+2176,3,MED26,hsp70_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2177,3,MED26,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2178,3,mlf2_human_gene,JMJD6,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2179,3,mmp3_human_gene,STAT3,gene,protein,Homo sapiens brain microvascular endothelium,1
+2180,3,mmp9_human_gene,MAFB,gene,protein,Homo sapiens mononuclear cell,1
+2181,3,mmp9_human_gene,RELA,gene,protein,Homo sapiens U251 glioma cell,1
+2182,3,msx2_human_gene,PPIE,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2183,3,msx2_human_gene,Q03164-PRO_0000390949,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2184,3,MTDH,il8_human_gene,protein,gene,Homo sapiens H4 neurogioma cell,1
+2185,3,MYC,cdk4_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+2186,3,MYC,hes1_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+2187,3,myc_human_gene,AFF1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2188,3,myc_human_gene,ELL,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2189,3,myc_human_gene,FOXM1,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2190,3,myc_human_gene,MLLT3,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2191,3,myc_human_gene,MYB,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2192,3,myc_human_gene,POLR2A,gene,protein,Homo sapiens HEK293T embryonic kidney cell,1
+2193,3,MYCN,apex1_mouse_gene,protein,gene,Mouse Neuroblastoma,1
+2194,3,MYCN,apr_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+2195,3,MYCN,apr_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+2196,3,MYCN,mdm2_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+2197,3,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens KELLY neuroblastoma cell,1
+2198,3,MYCN,mir17hg_human_gene,protein,gene,Homo sapiens SK-N-DZ neuroblastoma cell,1
+2199,3,mycn_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2200,3,Ncor1,pdk4_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2201,3,NCOR1,tf65_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2202,3,NCOR2,abcbb_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+2203,3,necd_human_gene,CHD7,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2204,3,necd_human_gene,SOX2,gene,protein,Homo sapiens neuronal precursor/neural stem progenitor,1
+2205,3,NFATC1,icam1_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+2206,3,NFATC1,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2207,3,NFATC1,nkx23_human_gene,protein,gene,Homo sapiens B cell,1
+2208,3,NFKBIA,hbx5_human_gene,protein,gene,Homo sapiens keratinocyte,1
+2209,3,NFKBIA,hxb2_human_gene,protein,gene,Homo sapiens keratinocyte,1
+2210,3,NFKBIZ,il6_human_gene,protein,gene,Homo sapiens decidua,1
+2211,3,notc1_human_gene,CREM,gene,protein,Homo sapiens T-cell,1
+2212,3,nox5_human_gene,STAT3,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+2213,3,nr0b1_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+2214,3,nr0b1_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+2215,3,NR0B2,abcbb_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+2216,3,NR3C1,il10_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2217,3,NR3C1,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2218,3,NR3C1,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2219,3,NR4A1,ccnd2_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2220,3,nr4a2_human_gene,NR5A1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+2221,3,nucl_human_gene,MYC,gene,protein,Homo sapiens P493-6 B-cell,1
+2222,3,nucl_human_gene,SIN3B,gene,protein,Homo sapiens P493-6 B-cell,1
+2223,3,P19838-PRO_0000030311,bambi_human_gene,protein,gene,Homo sapiens hepatic stellate cell,1
+2224,3,P19838-PRO_0000030311,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2225,3,P19838-PRO_0000030311,tnf15_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+2226,3,P19838-PRO_0000030311,tnfl6_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2227,3,pa24a_human_gene,EP300,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+2228,3,pa24a_human_gene,FOS,gene,protein,Homo sapiens Type II pulmonary alveolar epithelial cell,1
+2229,3,PARP1,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+2230,3,PARP1,klk3_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+2231,3,PARP1,pla1a_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+2232,3,PARP1,tmps2_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+2233,3,pckcg_human_gene,ZNF746,gene,protein,Homo sapiens SH-SY5Y cell,1
+2234,3,pdk4_human_gene,ESRRA,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2235,3,pdk4_human_gene,PPARGC1A,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2236,3,pe2r4_human_gene,SP1,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+2237,3,pla1a_human_gene,ERG,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2238,3,pla1a_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2239,3,pla1a_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2240,3,PML-RAR,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2241,3,PML-RAR,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2242,3,PML-RAR,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2243,3,PML-RAR,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2244,3,PML-RAR,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2245,3,PML-RAR,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2246,3,PML-RAR,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2247,3,podxl_human_gene,H4C16,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+2248,3,podxl_human_gene,VDR,gene,protein,Homo sapiens HGEC glomerular endothelial cell,1
+2249,3,POLR2A,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+2250,3,POLR2A,ccna2_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+2251,3,POLR2A,g3p_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2252,3,polr2k_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2253,3,POU5F1,lfty1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2254,3,POU5F1,po5f1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2255,3,POU5F1,sox17_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2256,3,PPIE,hoxa9_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2257,3,PRDM1,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2258,3,prdm1_human_gene,BCL6,gene,protein,Homo sapiens B cell,1
+2259,3,prdm1_human_gene,BCOR,gene,protein,Homo sapiens B cell,1
+2260,3,prdm1_human_gene,BCOR,gene,protein,Homo sapiens OCI-LY7 B cell lymphoma cell,1
+2261,3,prgc1_human_gene,ZNF746,gene,protein,Homo sapiens brain,1
+2262,3,Q00653-PRO_0000030322,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2263,3,Q03164-PRO_0000390949,cdkn1b_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2264,3,rarb_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+2265,3,RB1,casp7_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+2266,3,RB1,tp73_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2267,3,RB1,tp73_human_gene,protein,gene,Homo sapiens T98G caucasian glioblastoma cell,1
+2268,3,REL,foxp3_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2269,3,REL,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2270,3,RELA,ccnd1_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+2271,3,RELA,cxcl2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2272,3,RELA,ifnl1_human_gene,protein,gene,Homo sapiens BEAS-2B bronchial epithelial cell,1
+2273,3,RELA,il12b_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2274,3,RELA,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+2275,3,RELA,nod2_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2276,3,RELA,stim1_human_gene,protein,gene,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+2277,3,RELA,vegfa_human_gene,protein,gene,Homo sapiens U251 glioma cell,1
+2278,3,rl3_human_gene,SIRT6,gene,protein,Homo sapiens H1 embryonic stem cell,1
+2279,3,rnls_human_gene,SP1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2280,3,rnls_human_gene,STAT3,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2281,3,RORA,st2a1_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+2282,3,RORC,st2a1_human_gene,protein,gene,Homo sapiens Huh7 hepatoma cell,1
+2283,3,rorg_human_gene,USF2,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2284,3,rpl22_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2285,3,RPS3,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2286,3,RPS3,ikba_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2287,3,RPS3,il2_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2288,3,RPS3,il8_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2289,3,rs15a_human_gene,SIRT6,gene,protein,Homo sapiens H1 embryonic stem cell,1
+2290,3,RXRA,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+2291,3,RXRA,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2292,3,RXRA,pld1_human_gene,protein,gene,Homo sapiens HaCaT keratinocyte cell,1
+2293,3,RXRA,rarb_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2294,3,s5a1_human_gene,MYC,gene,protein,Homo sapiens P493-6 B-cell,1
+2295,3,s5a1_human_gene,SIN3B,gene,protein,Homo sapiens P493-6 B-cell,1
+2296,3,SIN3B,cdk4_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+2297,3,SIN3B,hes1_human_gene,protein,gene,Homo sapiens P493-6 B-cell,1
+2298,3,SIRT1,gli1_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2299,3,SIRT1,gli2_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2300,3,SIRT1,hes5_human_gene,protein,gene,Homo sapiens DAOY cerebellar medulloblastoma cell,1
+2301,3,SIRT6,rl23_human_gene,protein,gene,Homo sapiens H1 embryonic stem cell,1
+2302,3,SIRT6,rl6_huma_gene,protein,gene,Homo sapiens H1 embryonic stem cell,1
+2303,3,SMAD1,id1_mouse_gene,protein,gene,Mouse C3H muscle myoblast,1
+2304,3,SMAD1,smad7_mouse_gene,protein,gene,Mouse C3H muscle myoblast,1
+2305,3,SMAD3,lfty1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2306,3,SMAD3,po5f1_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2307,3,SMAD3,stat3_human_gene,protein,gene,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+2308,3,SMAD3,zeb2_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+2309,3,SMAD4,nkx25_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2310,3,SMAD4,tbx6_human_gene,protein,gene,Homo sapiens ES embryonic stem cell,1
+2311,3,SMARCA2,il6_human_gene,protein,gene,Homo sapiens HEK293FT embryonic kidney cell,1
+2312,3,SNAI1,fos_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+2313,3,sox17_human_gene,POU5F1,gene,protein,Homo sapiens ES embryonic stem cell,1
+2314,3,sox17_human_gene,POU5F1,gene,protein,Homo sapiens IPS induced pluripotent stem cell,1
+2315,3,SOX2,jag1_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+2316,3,SOX2,mycn_human_gene,protein,gene,Homo sapiens neuronal precursor/neural stem progenitor,1
+2317,3,sox2_human_gene,SMARCC1,gene,protein,Homo sapiens diploid fibroblast,1
+2318,3,sox2_human_gene,SS18,gene,protein,Homo sapiens diploid fibroblast,1
+2319,3,SP1,ccng2_human_gene,protein,gene,Homo sapiens SK-N-BE(2) neuroblastoma cell,1
+2320,3,SP1,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+2321,3,SP1,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+2322,3,Sp3,prkra_human_gene,protein,gene,In vitro,1
+2323,3,SP6,sphk1_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2324,3,SPI1,ab1ip_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2325,3,SPI1,csf3r_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2326,3,SPI1,fes_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2327,3,SPI1,fril_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2328,3,SPI1,hck_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2329,3,SPI1,psb10_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2330,3,SPI1,tnr18_human_gene,protein,gene,Homo sapiens U937-PR9 pro-monocytic cell,1
+2331,3,spi1_human_gene,PML-RAR,gene,protein,Homo sapiens U937-PR9 pro-monocytic cell,1
+2332,3,SPTBN1,stat3_human_gene,protein,gene,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+2333,3,SYT-SSX1,sox2_human_gene,protein,gene,Homo sapiens diploid fibroblast,1
+2334,3,st2a1_human_gene,NR1I3,gene,protein,Homo sapiens Huh7 hepatoma cell,1
+2335,3,star_human_gene,ASAH1,gene,protein,Homo sapiens H295R adrenocortical cell,1
+2336,3,star_human_gene,CEBPB,gene,protein,Homo sapiens KGN ovarian granulosa cell,1
+2337,3,star_human_gene,CEBPB,gene,protein,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2338,3,STAT1,egln3_human_gene,protein,gene,Homo sapiens umbilical vein endotheliium,1
+2339,3,STAT1,nox5_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+2340,3,STAT1,x3cl1_human_gene,protein,gene,Homo sapiens thoracic aorta smooth muscle cell,1
+2341,3,STAT3,il10_human_gene,protein,gene,Homo sapiens TERT-E6/E7 adipose mesenchymal cell,1
+2342,3,STAT3,mafb_human_gene,protein,gene,Homo sapiens mononuclear cell,1
+2343,3,Stat3,mmp3_human_gene,protein,gene,Homo sapiens brain microvascular endothelium,1
+2344,3,stat3_human_gene,ATF3,gene,protein,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+2345,3,stat3_human_gene,ATF4,gene,protein,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+2346,3,stat3_human_gene,SMAD3,gene,protein,Homo sapiens PLC/PRF/5 malignant hepatoma cell,1
+2347,3,STAT5B,fosl2_human_gene,protein,gene,Homo sapiens T-lymphoblast,1
+2348,3,stim1_human_gene,FOS,gene,protein,Homo sapiens HLMVEC lung microvascular endothelial cell,1
+2349,3,taf12_human_gene,FOXK1,gene,protein,Homo sapiens HEK293 embryonic kidney cell,1
+2350,3,TBP,myc_human_gene,protein,gene,Homo sapiens HEK293T embryonic kidney cell,1
+2351,3,TCF7L2,axin2_human_gene,protein,gene,Homo sapiens MD11 glioblastoma cell,1
+2352,3,tgif1_human_gene,CTNNB1,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+2353,3,tgif1_human_gene,TCF7L2,gene,protein,Homo sapiens HMLE mammary epithelial cell,1
+2354,3,tmps2_human_gene,XRCC5,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2355,3,tmps2_human_gene,XRCC6,gene,protein,Homo sapiens RWPE1 epithelial cell,1
+2356,3,tnfa_human_gene,IRF5,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+2357,3,tnfa_human_gene,POLR2A,gene,protein,Homo sapiens monocyte-derived dendritic cell,1
+2358,3,tnfl6_human_gene,CTNNB1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2359,3,tnfl6_human_gene,NR3C1,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2360,3,tnfl6_human_gene,TCF4,gene,protein,Homo sapiens Jurkat T-cell leukemia cell,1
+2361,3,TOP2B,fas_human_gene,protein,gene,Homo sapiens M059JK glioblastoma cell,1
+2362,3,TP73,hist1h2bj_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2363,3,tp73_human_gene,POLR2A,gene,protein,Homo sapiens T98G caucasian glioblastoma cell,1
+2364,3,TWIST1,fosl1_human_gene,protein,gene,Homo sapiens HMLE mammary epithelial cell,1
+2365,3,UBN1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2366,3,UBN1,ccna2_human_gene,protein,gene,Homo sapiens IMR-90 embryonic fetal lung fibroblast cell,1
+2367,3,USF1,rorg_human_gene,protein,gene,Homo sapiens Jurkat T-cell leukemia cell,1
+2368,3,VDR,co1a1_human_gene,protein,gene,Homo sapiens LX-2 hepatic stellate cell,1
+2369,3,VDR,pld1_human_gene,protein,gene,Homo sapiens HaCaT keratinocyte cell,1
+2370,3,x3cl1_human_gene,RELA,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+2371,3,x3cl1_human_gene,STAT3,gene,protein,Homo sapiens thoracic aorta smooth muscle cell,1
+2372,3,XRCC5,fkbp5_human_gene,protein,gene,Homo sapiens RWPE1 epithelial cell,1
+2373,3,YAP1,1433s_human_gene,protein,gene,Homo sapiens MCF10a non-transformed breast epithelial cell,1
+2374,3,ZC3H18,brca2_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2375,3,ZC3H18,g3p_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2376,3,ZC3H18,i3l3r6_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2377,3,ZC3H18,kras_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2378,3,ZC3H18,psmd3_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2379,3,ZC3H18,rnu12_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2380,3,ZC3H18,rt15_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2381,3,ZC3H18,ru2b_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2382,3,ZC3H18,znhi3_human_gene,protein,gene,Homo sapiens HEK293flp-in embryonic kidney cell,1
+2383,3,ZNF148,rnls_human_gene,protein,gene,Homo sapiens HEK293 embryonic kidney cell,1
+2384,3,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
+2385,3,ZNF746,g6pc_human_gene,protein,gene,Homo sapiens brain,1
+2386,3,ZNF746,pckcg_human_gene,protein,gene,Homo sapiens brain,1
+2387,3,ZNF746,prgc1_human_gene,protein,gene,Homo sapiens SH-SY5Y cell,1
